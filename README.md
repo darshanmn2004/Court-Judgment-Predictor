@@ -19,6 +19,50 @@ The system uses Natural Language Processing (NLP), Transformer Models, and Seman
 
 ---
 
+## 🤗 Hugging Face Model Repository
+
+To keep this GitHub repository lightweight and maintainable, the trained machine learning models and artifacts are hosted separately on Hugging Face.
+
+### Hosted Components
+
+| Component               | Description                                                          |
+| ----------------------- | -------------------------------------------------------------------- |
+| DistilBERT Model        | Fine-tuned transformer model for legal prediction                    |
+| SBERT Model             | Semantic similarity search model                                     |
+| Model Artifacts         | Trained weights, label encoders, scalers, and nearest-neighbor model |
+| Preprocessing Artifacts | Text preprocessing resources and metadata                            |
+
+### Hugging Face Repository
+
+**Model Repository:**
+https://huggingface.co/Darshanmn17/court-judgment-predictor-models
+
+### Prediction Capabilities
+
+The hosted models are used to perform:
+
+* Verdict Prediction
+* IPC Section Prediction
+* Relevant Law Prediction
+* Penalty Prediction
+* Similar Case Retrieval
+* Detailed Case Summary Generation
+
+### Storage Architecture
+
+| Resource         | Platform     |
+| ---------------- | ------------ |
+| Source Code      | GitHub       |
+| Frontend         | GitHub       |
+| Backend API      | GitHub       |
+| Database Schema  | GitHub       |
+| DistilBERT Model | Hugging Face |
+| SBERT Model      | Hugging Face |
+| Model Artifacts  | Hugging Face |
+
+This architecture follows industry best practices by separating source code from large machine learning models.
+
+
 ## 🚀 Features
 
 ### 🔐 User Authentication
@@ -274,6 +318,17 @@ This project demonstrates:
 - Full Stack AI Application Development
 
 ---
+
+## 🔗 Project Links
+
+### GitHub Repository
+
+https://github.com/darshanmn2004/Court-Judgment-Predictor
+
+### Hugging Face Repository
+
+https://huggingface.co/Darshanmn17/court-judgment-predictor-models
+
 
 ## 👨‍💻 Author
 
