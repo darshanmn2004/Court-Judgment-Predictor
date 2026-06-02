@@ -117,6 +117,19 @@ Used for:
 - Legal precedent analysis
 
 ---
+ ## 🔄 System Workflow
+
+1. User Registration/Login
+2. User enters case facts
+3. DistilBERT processes the legal text
+4. Verdict Prediction is generated
+5. IPC Section is predicted
+6. Relevant Laws are identified
+7. Penalty is estimated
+8. SBERT retrieves similar historical cases
+9. Detailed case summary is generated
+10. Prediction is stored in SQLite database
+11. User can access predictions from the History panel
 
 ## 🛠️ Tech Stack
 
@@ -141,6 +154,47 @@ Used for:
 - Scikit-Learn
 
 ---
+## 🗄️ Database Design
+
+The project uses SQLite with SQLAlchemy ORM.
+
+### Tables
+
+#### users
+
+Stores user authentication information.
+
+Fields:
+
+* id
+* full_name
+* email
+* password_hash
+
+#### prediction_history
+
+Stores prediction history for each user.
+
+Fields:
+
+* id
+* user_id
+* case_text
+* verdict
+* ipc_section
+* penalty
+* relevant_laws
+* case_summary
+* similar_cases
+* created_at
+
+### Benefits
+
+* Persistent history after re-login
+* User-specific prediction records
+* Lightweight local database
+* Easy deployment
+
 
 ## 📂 Project Structure
 
@@ -244,6 +298,47 @@ git clone https://github.com/darshanmn2004/Court-Judgment-Predictor.git
 cd Court-Judgment-Predictor
 ```
 
+### Download Model Files
+
+The trained AI models are hosted separately on Hugging Face due to their large size.
+
+Download the following files:
+
+- distilbert-base-uncased.zip
+- local_sbert.zip
+- model_artifacts.zip
+- preprocessing_artifacts.zip
+
+### Hugging Face Repository
+
+https://huggingface.co/Darshanmn17/court-judgment-predictor-models
+
+### Extract Model Files
+
+Extract all downloaded ZIP files into the project root directory.
+
+After extraction, your project structure should look like:
+
+```text
+Court-Judgment-Predictor/
+│
+├── app.py
+├── auth.py
+├── database.py
+├── models.py
+├── create_tables.py
+│
+├── distilbert-base-uncased/
+├── local_sbert/
+├── model_artifacts/
+├── preprocessing_artifacts/
+│
+├── templates/
+├── static/
+├── requirements.txt
+└── README.md
+```
+
 ### Create Virtual Environment
 
 ```bash
@@ -282,11 +377,26 @@ or
 uvicorn app:app --reload
 ```
 
-Open:
+### Open in Browser
 
 ```text
 http://127.0.0.1:8000
 ```
+
+### Usage
+
+1. Register a new account.
+2. Login to the system.
+3. Enter case facts in the dashboard.
+4. Click **Predict Judgment**.
+5. View:
+   - Verdict Prediction
+   - IPC Section
+   - Relevant Laws
+   - Penalty
+   - Detailed Case Summary
+   - Similar Cases
+6. Access previous predictions from the History sidebar.
 
 ---
 
