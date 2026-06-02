@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+distilbert-base-uncased/
+local_sbert/
+model_artifacts/
+model/
+
+*.zip
+
+court_judgment.db
+balanced_final_dataset_v6.csv

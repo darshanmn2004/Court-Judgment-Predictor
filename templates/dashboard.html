@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Court Judgment Predictor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        * { box-sizing: border-box; }
+
+        body {
+            margin: 0;
+            font-family: "Poppins", sans-serif;
+            background: #f5f7fb;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        /* ---------- SIDEBAR ---------- */
+        .sidebar {
+            width: 280px;
+            background: #1f2937;
+            color: white;
+            padding: 1rem;
+            overflow-y: auto;
+            height: 100vh;
+            position: fixed;
+            left: 0;
+            top: 0;
+        }
+
+        .sidebar h2 {
+            margin-bottom: 1rem;
+            font-size: 1.2rem;
+        }
+
+        .history-item {
+            background: #374151;
+            padding: 10px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            font-size: 0.9rem;
+        }
+
+        .history-item:hover {
+            background: #4b5563;
+        }
+
+        /* ---------- MAIN ---------- */
+        .main {
+            margin-left: 280px;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+        /* ---------- NAVBAR ---------- */
+        .navbar {
+            background: linear-gradient(135deg, #6a11cb, #2575fc);
+            color: white;
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logout-btn {
+            background: white;
+            color: #6a11cb;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        /* ---------- CONTENT ---------- */
+        .content {
+            flex: 1;
+            overflow-y: auto;
+            padding: 2rem;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+        }
+
+        /* ---------- CARD ---------- */
+        .center-card {
+            width: 100%;
+            max-width: 900px;
+            background: white;
+            padding: 2rem;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        textarea {
+            width: 100%;
+            height: 180px;
+            padding: 15px;
+            border-radius: 10px;
+            border: 1px solid #ccc;
+            resize: none;
+            font-size: 1rem;
+        }
+
+        .btn {
+            margin-top: 1rem;
+            background: linear-gradient(135deg, #6a11cb, #2575fc);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 10px;
+            border: none;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        /* ---------- SIMILAR CASES ---------- */
+        .similar-container {
+            margin-top: 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .similar-case {
+            background: #eef2ff;
+            padding: 14px;
+            border-left: 4px solid #6a11cb;
+            border-radius: 10px;
+
+            max-height: 160px;     /* keeps UI clean */
+            overflow-y: auto;      /* scroll inside */
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+
+        h3 {
+            margin-top: 1.5rem;
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- ---------- SIDEBAR ---------- -->
+<div class="sidebar">
+    <h2>📜 History</h2>
+    <div id="historyList"></div>
+</div>
+
+<!-- ---------- MAIN ---------- -->
+<div class="main">
+
+    <!-- NAVBAR -->
+    <div class="navbar">
+        <div>⚖️ Court Judgment Predictor</div>
+        <div>
+            <span id="userName">Loading...</span>
+            <button class="logout-btn" onclick="logout()">Logout</button>
+        </div>
+    </div>
+
+    <!-- CONTENT -->
+    <div class="content" id="content"></div>
+</div>
+
+<script>
+/* ---------- AUTH ---------- */
+const token = localStorage.getItem("token");
+if (!token) window.location.href = "/login";
+
+fetch("/me", { headers: { Authorization: "Bearer " + token } })
+    .then(res => res.json())
+    .then(user => {
+        document.getElementById("userName").innerText =
+            user.full_name + " (" + user.email + ")";
+    });
+
+/* ---------- HISTORY ---------- */
+const historyList = document.getElementById("historyList");
+let historyData = [];
+
+function loadHistory() {
+    fetch("/history", {
+        headers: { Authorization: "Bearer " + token }
+    })
+    .then(res => res.json())
+    .then(data => {
+        historyData = data;
+        renderHistory();
+    });
+}
+
+function renderHistory() {
+    historyList.innerHTML = "";
+    historyData.forEach((item, i) => {
+        const div = document.createElement("div");
+        div.className = "history-item";
+        div.innerHTML = `<b>${item.verdict}</b><br>${item.created_at}`;
+        div.onclick = () => showFromHistory(i);
+        historyList.appendChild(div);
+    });
+}
+
+
+function showFromHistory(i) {
+    const d = historyData[i];
+
+    const laws =
+        Array.isArray(d.relevant_laws) && d.relevant_laws.length
+            ? d.relevant_laws.join(", ")
+            : "-";
+
+    const similarCases =
+        Array.isArray(d.similar_cases) && d.similar_cases.length
+            ? d.similar_cases.map(
+                (c, idx) => `
+                    <div class="similar-case">
+                        <b>Similar Case ${idx + 1}</b><br><br>
+                        ${c}
+                    </div>
+                `
+            ).join("")
+            : "<p>No similar cases available.</p>";
+
+    document.getElementById("content").innerHTML = `
+        <div class="center-card">
+            <h2>Previous Prediction</h2>
+
+            <p><b>Verdict:</b> ${d.verdict}</p>
+            <p><b>IPC Section:</b> ${d.ipc_section ?? "-"}</p>
+            <p><b>Penalty (Months):</b> ${d.penalty ?? "-"}</p>
+            <p><b>Relevant Laws:</b> ${laws}</p>
+
+            <h3>Case Summary</h3>
+            <p>${d.case_summary}</p>
+
+            <h3>Similar Cases</h3>
+            ${similarCases}
+
+            <button class="btn" onclick="newCase()">➕ Enter New Case</button>
+        </div>
+    `;
+}
+
+
+
+/* ---------- PREDICT ---------- */
+function predict() {
+    const text = document.getElementById("caseText").value.trim();
+    if (!text) return alert("Enter case description");
+
+    fetch("/predict", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+            Authorization: "Bearer " + token
+        },
+        body: JSON.stringify({ case_text: text })
+    })
+    .then(res => res.json())
+    .then(data => {
+        loadHistory();
+
+        const laws = Array.isArray(data.relevant_laws) && data.relevant_laws.length
+            ? data.relevant_laws.join(", ")
+            : "-";
+
+        /* EXACTLY 3 FULL SIMILAR CASES */
+        const simCasesHTML = data.similar_cases?.slice(0, 3).map(
+            (c, i) => `
+                <div class="similar-case">
+                    <b>Similar Case ${i + 1}</b><br><br>
+                    ${c}
+                </div>
+            `
+        ).join("") || "<p>No similar cases found.</p>";
+
+        document.getElementById("content").innerHTML = `
+            <div class="center-card">
+                <h2>Prediction Result</h2>
+
+                <p><b>Verdict:</b> ${data.verdict}</p>
+                <p><b>IPC Section:</b> ${data.ipc_section ?? "-"}</p>
+                <p><b>Penalty (Months):</b> ${data.penalty ?? "-"}</p>
+                <p><b>Relevant Laws:</b> ${laws}</p>
+
+                <h3>Case Summary</h3>
+                <p>${data.case_summary}</p>
+
+                <h3>Similar Cases (Top 3)</h3>
+                <div class="similar-container">
+                    ${simCasesHTML}
+                </div>
+
+                <button class="btn" onclick="newCase()">➕ Enter New Case</button>
+            </div>
+        `;
+    });
+}
+
+/* ---------- NEW CASE ---------- */
+function newCase() {
+    document.getElementById("content").innerHTML = `
+        <div class="center-card">
+            <h2>Enter Case Description</h2>
+            <textarea id="caseText" placeholder="Enter FIR / case description..."></textarea>
+            <button class="btn" onclick="predict()">Predict Judgment</button>
+        </div>
+    `;
+}
+
+/* ---------- LOGOUT ---------- */
+function logout() {
+    localStorage.removeItem("token");
+    window.location.href = "/login";
+}
+
+/* ---------- INIT ---------- */
+newCase();
+loadHistory();
+</script>
+
+</body>
+</html>

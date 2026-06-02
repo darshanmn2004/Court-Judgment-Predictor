@@ -1,0 +1,601 @@
+case_id,verdict,ipc_section,relevant_laws,case_fact,penalty_months,severity,ververdict,guilty_label,relevant_laws_list,ipc_label,penalty_scaled
+b416e11f-d9ca-4366-8eaa-cff4494a86aa,Guilty,506,"506,498A,307","the accused burned the customer at the home after a family dispute, causing mental trauma. forensic report confirmed the act.",120,Medium,,1,"['506', '498A', '307']",14,0.4
+9639805e-b6ac-4869-bb3f-fdf12103bc78,Guilty,304B,"304B,354","the accused burned the woman at the hotel after a family dispute, causing serious injury. recovered weapon confirmed the act.",258,High,,1,"['304B', '354']",2,0.8600000000000001
+a5380559-c188-4bc8-9075-c264f35937f2,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+3cc7119c-d249-4a86-9389-ceb8a0d4b6a6,Guilty,420,"420,498A,363",victim's statement and cctv footage prove that the accused intentionally strangled the public servant.,57,Medium,,1,"['420', '498A', '363']",11,0.19
+cc8c2bf3-cfe5-401c-842a-eb86e13ea5bc,Guilty,468,"468,363","during a public protest, eyewitness statements captured the accused assaulted the police officer at market.",97,Medium,,1,"['468', '363']",12,0.32333333333333336
+c42b8d2d-ac76-410a-9316-2d43510eb80c,Guilty,379,"379,506,354","fir and forensic report show the accused burned the customer during a robbery attempt, resulting in loss of life.",34,Low,,1,"['379', '506', '354']",9,0.11333333333333334
+c19f58ff-d2a3-43df-9c95-c74003c6b8cf,Not Guilty,NONE,,witnesses gave contradictory statements and bank transaction logs was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+8ee4fb9a-21ef-4233-a2ef-2fe869fc21b5,Not Guilty,NONE,,witnesses gave contradictory statements and forensic report was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+502f283e-0cc0-451b-985d-14caa0a64c0b,Not Guilty,NONE,,the accused provided a verified alibi; no medical certificate matched them.,0,Low,Not Guilty,0,[],15,0.0
+6a561a31-9bc9-4a67-8a3e-0b55224541ce,Not Guilty,NONE,,the accused provided a verified alibi; no digital evidence matched them.,0,Low,Not Guilty,0,[],15,0.0
+fb8386ba-cc1a-4a20-84c1-5d4a9a8e18be,Not Guilty,NONE,,the accused provided a verified alibi; no cctv footage matched them.,0,Low,Not Guilty,0,[],15,0.0
+9a0d2dc8-6367-4880-adfa-2972c63b1685,Guilty,120B,"120B,326,420",victim's statement and forensic report prove that the accused intentionally trespassed the victim.,12,Low,,1,"['120B', '326', '420']",0,0.04
+91ac717a-2196-4b03-a263-e2bdb4f74778,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+4d1af188-6423-4a5e-b193-4d484cefb294,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+d8fae501-e4b5-4662-8f44-811ee135233c,Not Guilty,NONE,,the accused was present nearby but no forensic report linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+5d83447c-259c-4a02-bb41-0d73e2f60c91,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+fe07f3d2-d465-4973-9e3d-f2a2b694954d,Not Guilty,NONE,,witnesses gave contradictory statements and medical certificate was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+d4d65f52-1005-443d-bd21-6a6944dbed38,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+7434b241-fca7-4305-a809-87ef5afc4057,Guilty,406,"406,341",the accused planned and executed to burned the police officer at home for personal gain.,51,Medium,,1,"['406', '341']",10,0.17
+f27d67b7-e383-42fa-8072-a2d5adc249fc,Guilty,326,326,the accused planned and executed to blackmailed the public servant at bus stop for personal gain.,106,Medium,,1,['326'],4,0.35333333333333333
+94072e5b-9832-4d23-b5a1-6f518f3eb2be,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+9caedd11-b9d3-44c4-9a28-bea0f942524f,Guilty,120B,"120B,379,406","fir and forensic report show the accused assaulted the customer during a quarrel, resulting in loss of life.",14,Low,,1,"['120B', '379', '406']",0,0.04666666666666667
+afeea947-710c-4718-a73e-8ea75e421083,Guilty,498A,"498A,506,304B",victim's statement and bank transaction logs prove that the accused intentionally harassed the woman.,41,Medium,,1,"['498A', '506', '304B']",13,0.1366666666666667
+fdfc1704-9f53-4860-9305-4ded402dcfd0,Not Guilty,NONE,,the accused provided a verified alibi; no medical certificate matched them.,0,Low,Not Guilty,0,[],15,0.0
+f880c2f0-94ef-4d54-80f0-6f85d56a259a,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+4abf3b0b-63d4-440b-979c-2690edcfad95,Not Guilty,NONE,,the accused was present nearby but no recovered weapon linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+20b4b488-a1f1-49d2-9f3e-96b7d8ae2cd8,Guilty,304B,"304B,379","the accused shot the customer at the public park after a political rally, causing property loss. cctv footage confirmed the act.",236,High,,1,"['304B', '379']",2,0.7866666666666667
+7c385d32-3c6d-4d8a-8246-b4a6b07d3853,Not Guilty,NONE,,the accused provided a verified alibi; no cctv footage matched them.,0,Low,Not Guilty,0,[],15,0.0
+d4099c48-808c-45be-b8c1-08fd503011ab,Guilty,468,468,investigation found cctv footage and witnesses confirming that the accused stole the employee leading to death.,117,Medium,,1,['468'],12,0.39
+763f8687-ca1a-4015-831f-7b62c9e7db14,Guilty,302,"302,120B,363","during a public protest, forensic report captured the accused assaulted the minor at bus stop.",160,High,,1,"['302', '120B', '363']",1,0.5333333333333333
+20e57fc4-6f7e-4306-b541-0ecf3983f1e1,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+6266e933-7c6f-4cdb-863d-b537e5d86a21,Guilty,326,"326,363,302",victim's statement and forensic report prove that the accused intentionally abducted the police officer.,68,Medium,,1,"['326', '363', '302']",4,0.22666666666666668
+1bc0d15a-4600-413f-9f02-4636a7bc6bff,Guilty,506,506,investigation found eyewitness statements and witnesses confirming that the accused shot the business partner leading to mental trauma.,55,Medium,,1,['506'],14,0.18333333333333335
+3d957803-78d5-4af3-90ea-0443d3fb4879,Not Guilty,NONE,,police could not recover any weapon or dna test supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+e6be2510-7082-4ab0-aa06-099a870c6cda,Not Guilty,NONE,,police could not recover any weapon or eyewitness statements supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+a30e3603-0572-4341-bb1e-d7b6884e0e27,Guilty,376,"376,498A,420","the accused trespassed the woman at the bus stop after a robbery attempt, causing death. eyewitness statements confirmed the act.",251,High,,1,"['376', '498A', '420']",8,0.8366666666666667
+1441889e-f72e-43aa-8ac7-5b1ac97f01ea,Not Guilty,NONE,,police could not recover any weapon or digital evidence supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+1172e49a-4546-47d2-8250-de1d4cfb2b8f,Not Guilty,NONE,,the accused provided a verified alibi; no bank transaction logs matched them.,0,Low,Not Guilty,0,[],15,0.0
+0107dc20-63ed-4af4-8c4b-ced2cec047f3,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+af6dfa39-9672-4cd2-bebe-d22788a156f1,Guilty,120B,120B,victim's statement and bank transaction logs prove that the accused intentionally cheated the business partner.,11,Low,,1,['120B'],0,0.03666666666666667
+d6a2e30a-4e02-4ce5-a247-c1cba8aeb797,Guilty,498A,"498A,379,420","the accused burned the business partner at the market after a robbery attempt, causing death. cctv footage confirmed the act.",85,Medium,,1,"['498A', '379', '420']",13,0.2833333333333333
+7d082e17-e72d-4557-88a1-24b0d44161d1,Not Guilty,NONE,,police could not recover any weapon or forensic report supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+ce2e4563-b2a8-4ea8-ab67-d20b8aa86d6c,Guilty,506,506,"fir and forensic report show the accused extorted the police officer during a business deal, resulting in property loss.",98,Medium,,1,['506'],14,0.32666666666666666
+02ac05bb-e910-44ba-9227-762bf4bbf09c,Not Guilty,NONE,,witnesses gave contradictory statements and cctv footage was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+c622f9d9-2314-479a-9c35-8ecd7516430f,Guilty,304B,"304B,363,354",the accused planned and executed to blackmailed the business partner at market for personal gain.,145,High,,1,"['304B', '363', '354']",2,0.48333333333333334
+6aab8f84-366d-49aa-93e9-cb565ff7280b,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+ef23cc64-f0be-45bf-87c7-b9efab5afdbf,Guilty,420,"420,379,307","fir and forensic report show the accused blackmailed the witness during a public protest, resulting in serious injury.",101,Medium,,1,"['420', '379', '307']",11,0.33666666666666667
+eb71c176-ba9e-48db-852c-f8295fd23f3c,Guilty,406,"406,341",the accused planned and executed to abducted the woman at bus stop for personal gain.,83,Medium,,1,"['406', '341']",10,0.27666666666666667
+d18672c3-e04e-4d4a-9104-3d42e5aeb04c,Guilty,376,"376,354,506",investigation found digital evidence and witnesses confirming that the accused shot the neighbour leading to financial damage.,200,High,,1,"['376', '354', '506']",8,0.6666666666666667
+d20b9c6a-c7ac-4cfc-a0a0-a248f8cf8006,Not Guilty,NONE,,the accused provided a verified alibi; no cctv footage matched them.,0,Low,Not Guilty,0,[],15,0.0
+20251339-b855-42ae-8ded-e0e2cd56592f,Guilty,379,379,"fir and forensic report show the accused hit the neighbour during a family dispute, resulting in public disturbance.",29,Low,,1,['379'],9,0.09666666666666668
+c271aba6-7deb-473a-8033-2dda29ce5e71,Guilty,307,"307,498A,354","during a family dispute, dna test captured the accused threatened the minor at home.",161,High,,1,"['307', '498A', '354']",3,0.5366666666666667
+411e01ff-6959-4408-b484-6d45a07fa753,Guilty,341,"341,363",investigation found forensic report and witnesses confirming that the accused raped the neighbour leading to public disturbance.,21,Low,,1,"['341', '363']",5,0.07
+3ab23b31-eeb3-49eb-976f-cf56528d30f5,Guilty,307,"307,498A,363","the accused poisoned the wife at the factory after a quarrel, causing serious injury. forensic report confirmed the act.",257,High,,1,"['307', '498A', '363']",3,0.8566666666666667
+da239a48-47ff-45d4-8fe3-05c4d43549f1,Not Guilty,NONE,,police could not recover any weapon or forensic report supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+45ae164d-ac8c-46f9-82c6-bae411a2b82e,Guilty,120B,120B,"the accused assaulted the witness at the office after a public protest, causing death. bank transaction logs confirmed the act.",28,Low,,1,['120B'],0,0.09333333333333334
+67eceaf6-a29c-411e-88e7-2b2f5acb05bf,Not Guilty,NONE,,the accused was present nearby but no recovered weapon linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+d272ab26-5632-4ec7-98e3-ad985f90aaec,Guilty,498A,"498A,326",the accused planned and executed to assaulted the witness at factory for personal gain.,47,Medium,,1,"['498A', '326']",13,0.15666666666666668
+eda1e3bd-ea1c-45d1-b91a-80094788072b,Guilty,406,406,"fir and forensic report show the accused trespassed the bank officer during a domestic argument, resulting in public disturbance.",71,Medium,,1,['406'],10,0.2366666666666667
+6c76ed8e-5f05-442d-99f4-066c2379e795,Not Guilty,NONE,,police could not recover any weapon or cctv footage supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+756f14b4-24e1-47ea-86e7-835a07478c52,Not Guilty,NONE,,witnesses gave contradictory statements and digital evidence was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+5080b063-da9d-4208-9fb7-b77ad22cdc88,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+34ceab62-7aec-45fa-924c-d650f4d87e50,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+424d39dd-db7a-4c32-978c-00800036959b,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+4cb54aed-f169-4873-9e4b-93017d2ba130,Not Guilty,NONE,,police could not recover any weapon or cctv footage supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+4604d857-af0e-4b17-9e69-bfe203309ede,Guilty,498A,498A,"the accused harassed the customer at the temple after a public protest, causing financial damage. medical certificate confirmed the act.",69,Medium,,1,['498A'],13,0.23
+71d48217-9bde-4925-93b3-0cd8ef44a0d4,Not Guilty,NONE,,the accused was present nearby but no medical certificate linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+a1285b70-6a18-44d1-84f6-b758f037469f,Not Guilty,NONE,,witnesses gave contradictory statements and medical certificate was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+fa29197f-150a-480c-91b6-d41414cace35,Guilty,304B,"304B,406",investigation found dna test and witnesses confirming that the accused threatened the victim leading to loss of life.,208,High,,1,"['304B', '406']",2,0.6933333333333334
+14283196-9b47-45c0-8664-4b90911edb66,Guilty,304B,"304B,307","the accused blackmailed the minor at the restaurant after a robbery attempt, causing property loss. bank transaction logs confirmed the act.",244,High,,1,"['304B', '307']",2,0.8133333333333334
+49a26727-a33c-4b5b-8ff9-ef0a44dd18a2,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+32825e8b-5aed-4050-83c0-72442b4b5199,Guilty,498A,"498A,354,406",investigation found digital evidence and witnesses confirming that the accused burned the wife leading to property loss.,115,Medium,,1,"['498A', '354', '406']",13,0.38333333333333336
+b617926c-7fdc-47cd-b79e-5222541e7678,Guilty,406,"406,420,376",investigation found cctv footage and witnesses confirming that the accused abducted the business partner leading to serious injury.,97,Medium,,1,"['406', '420', '376']",10,0.32333333333333336
+0a18e265-6c3b-4d36-aec8-fd9e982a2b4f,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+d6724dbf-4a1a-4297-9fb2-4722404d93a3,Guilty,420,"420,120B",the accused planned and executed to trespassed the public servant at train station for personal gain.,93,Medium,,1,"['420', '120B']",11,0.31
+48dfe6fe-92da-4896-86c8-2b201760dbba,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+49c96c6f-4031-415e-a6c2-1fc396ad6aad,Guilty,468,"468,304B",the accused planned and executed to hit the customer at restaurant for personal gain.,119,Medium,,1,"['468', '304B']",12,0.39666666666666667
+7de30a89-4fde-4453-8701-322f74c312e7,Not Guilty,NONE,,the accused was present nearby but no recovered weapon linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+40e03864-2b51-4749-af52-c56e1e8d6e22,Guilty,406,"406,326",victim's statement and recovered weapon prove that the accused intentionally hit the woman.,115,Medium,,1,"['406', '326']",10,0.38333333333333336
+440e3574-79eb-4383-a0e3-c4765842e252,Guilty,379,"379,307",victim's statement and dna test prove that the accused intentionally stole the employee.,33,Low,,1,"['379', '307']",9,0.11
+076a04d3-f4a5-454f-9b26-2f077ab5a29a,Guilty,498A,"498A,341","fir and forensic report show the accused shot the minor during a public protest, resulting in loss of life.",81,Medium,,1,"['498A', '341']",13,0.27
+4ff087b8-8a78-40a8-8d42-a5d09602d75e,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+b6c2b1a7-04df-48aa-826d-fd02827b70ec,Guilty,307,"307,341,302",investigation found digital evidence and witnesses confirming that the accused strangled the minor leading to loss of life.,144,High,,1,"['307', '341', '302']",3,0.48000000000000004
+1c33884d-c054-4e91-b7f4-560d79691b00,Not Guilty,NONE,,the accused provided a verified alibi; no medical certificate matched them.,0,Low,Not Guilty,0,[],15,0.0
+122130d1-9e37-4dc5-ad97-97cc30364be7,Guilty,376,"376,304B",the accused planned and executed to forged the minor at restaurant for personal gain.,249,High,,1,"['376', '304B']",8,0.8300000000000001
+a8e9dc6d-d429-4504-abd9-fed4ee6ba3ac,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+15eb35f9-81fc-40e9-b824-2103d0109245,Not Guilty,NONE,,the accused provided a verified alibi; no bank transaction logs matched them.,0,Low,Not Guilty,0,[],15,0.0
+bac40ba9-baba-463e-908d-f7dd6283b16a,Guilty,302,"302,420,506",victim's statement and medical certificate prove that the accused intentionally trespassed the business partner.,261,High,,1,"['302', '420', '506']",1,0.8700000000000001
+04589389-d639-43e5-98db-cd3c7511f5a1,Not Guilty,NONE,,police could not recover any weapon or dna test supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+2a3cbe2e-4899-4285-b97b-b9a2f8a887ac,Not Guilty,NONE,,witnesses gave contradictory statements and recovered weapon was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+1f51a027-0b2c-4c02-b822-cfa2cba0274f,Not Guilty,NONE,,the accused was present nearby but no forensic report linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+166e34ad-41bb-4b1f-b878-771758bd8545,Not Guilty,NONE,,police could not recover any weapon or digital evidence supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+14764c4f-ccb5-4605-b9ba-2e30de84235b,Not Guilty,NONE,,the accused was present nearby but no digital evidence linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+b89298d7-ebac-4c5f-b252-7f679f2840a1,Guilty,506,"506,341,307","during a public protest, eyewitness statements captured the accused abducted the victim at hotel.",84,Medium,,1,"['506', '341', '307']",14,0.28
+430466fb-2950-476d-8e2c-a7ff1ee8dfa8,Not Guilty,NONE,,witnesses gave contradictory statements and bank transaction logs was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+e151f796-91ae-450a-8e79-54d5fa47bcb1,Not Guilty,NONE,,the accused was present nearby but no eyewitness statements linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+42144d77-448c-4eeb-a5cf-c4adec66ec2b,Not Guilty,NONE,,police could not recover any weapon or dna test supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+d6cae131-9fcf-4f5b-90a0-9fd2906e0124,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+ea8beeea-0d5b-49b5-9975-b73d9bbea35d,Not Guilty,NONE,,the accused provided a verified alibi; no eyewitness statements matched them.,0,Low,Not Guilty,0,[],15,0.0
+e745fb45-d18f-44ca-b4e4-c6361f07a4ce,Guilty,506,506,"fir and forensic report show the accused shot the public servant during a quarrel, resulting in financial damage.",39,Medium,,1,['506'],14,0.13
+3582d50d-a42d-45a5-9aea-fb1fb932316e,Guilty,307,"307,326","fir and forensic report show the accused harassed the witness during a public protest, resulting in serious injury.",253,High,,1,"['307', '326']",3,0.8433333333333334
+0f0e57d9-62f7-45fb-886c-0e5f9041fb46,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+02acc407-67ed-45e8-923f-1f631b2b48dc,Guilty,120B,"120B,363,326","fir and forensic report show the accused abducted the victim during a political rally, resulting in death.",16,Low,,1,"['120B', '363', '326']",0,0.05333333333333334
+5c246c21-f876-457f-966e-c21b111c6e0f,Guilty,379,379,investigation found recovered weapon and witnesses confirming that the accused harassed the business partner leading to serious injury.,33,Low,,1,['379'],9,0.11
+dbaa6c99-21d6-4d38-8745-e79bd79c3c83,Guilty,363,363,victim's statement and digital evidence prove that the accused intentionally hit the victim.,30,Low,,1,['363'],7,0.1
+30a1a0b8-f4fe-4b4f-a49a-7a2cb2f91a7a,Guilty,376,"376,354,506",victim's statement and cctv footage prove that the accused intentionally cheated the employee.,202,High,,1,"['376', '354', '506']",8,0.6733333333333333
+7fbc4246-b365-417d-85e2-7a66b7f27d1c,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+0683675f-8362-45e2-aa33-da8a2a71e3b1,Guilty,307,"307,341,302",the accused planned and executed to burned the business partner at market for personal gain.,264,High,,1,"['307', '341', '302']",3,0.88
+3c449acc-a28b-4791-904b-4fb0f864cb91,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+0a2977a6-1a97-49c5-b0ec-775433040653,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+fa7bd260-aade-41dd-8be2-de014a126fae,Guilty,376,376,the accused planned and executed to cheated the customer at train station for personal gain.,215,High,,1,['376'],8,0.7166666666666667
+0eb3a126-e462-41fc-8d4f-0c759b3d672e,Guilty,326,"326,302,341",the accused planned and executed to cheated the bank officer at school for personal gain.,66,Medium,,1,"['326', '302', '341']",4,0.22
+cd593e8c-e667-4dee-a826-550ed4730b1b,Guilty,302,"302,376","during a business deal, recovered weapon captured the accused abducted the witness at train station.",201,High,,1,"['302', '376']",1,0.67
+1c56eae8-6061-4ada-a886-3f5cb461eeaf,Guilty,379,"379,326","fir and forensic report show the accused raped the business partner during a political rally, resulting in property loss.",15,Low,,1,"['379', '326']",9,0.05
+d52ccbf3-b335-40b3-ae20-276fb860a2c3,Guilty,506,"506,302","the accused harassed the minor at the school after a political rally, causing property loss. digital evidence confirmed the act.",92,Medium,,1,"['506', '302']",14,0.3066666666666667
+d622a75a-4c05-43b6-9934-ec0308c476af,Guilty,304B,304B,"fir and forensic report show the accused assaulted the public servant during a public protest, resulting in property loss.",258,High,,1,['304B'],2,0.8600000000000001
+3a17d44c-c585-452e-86af-c7f8a0135242,Guilty,302,"302,120B,363",investigation found medical certificate and witnesses confirming that the accused threatened the minor leading to financial damage.,236,High,,1,"['302', '120B', '363']",1,0.7866666666666667
+7d30f467-6144-4d05-a33c-cf91599a0ac5,Not Guilty,NONE,,the accused was present nearby but no digital evidence linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+8c746916-ca9e-4034-baa0-077967f20ba7,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+22d098b7-4219-4159-a1ff-bc65d163f6ca,Guilty,354,354,"the accused extorted the business partner at the temple after a family dispute, causing death. recovered weapon confirmed the act.",14,Low,,1,['354'],6,0.04666666666666667
+52af7fc8-0065-4a24-8acb-b35114c206fb,Guilty,379,379,the accused planned and executed to strangled the public servant at temple for personal gain.,19,Low,,1,['379'],9,0.06333333333333334
+ae846042-9fd5-49e9-bc00-19ba248cd18d,Guilty,120B,"120B,406,468",victim's statement and medical certificate prove that the accused intentionally hit the police officer.,30,Low,,1,"['120B', '406', '468']",0,0.1
+1f42f851-7284-4b88-a88e-360822e635a0,Guilty,354,354,"during a business deal, recovered weapon captured the accused hit the neighbour at temple.",29,Low,,1,['354'],6,0.09666666666666668
+77d1540c-b1d6-4041-9cb5-6b5f9e3faff5,Guilty,304B,304B,the accused planned and executed to forged the woman at bus stop for personal gain.,195,High,,1,['304B'],2,0.65
+da510908-ee82-4d50-9e87-2b20065fbf38,Guilty,302,"302,406,376","during a robbery attempt, forensic report captured the accused trespassed the witness at office.",173,High,,1,"['302', '406', '376']",1,0.5766666666666667
+899f1eda-c603-4d40-a124-a8bfe111e577,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+49099ffe-00a7-42a6-a10c-3b6cd8f9d008,Not Guilty,NONE,,the accused provided a verified alibi; no cctv footage matched them.,0,Low,Not Guilty,0,[],15,0.0
+13279e74-e67b-47e9-8858-cc96f547a3db,Not Guilty,NONE,,the accused provided a verified alibi; no recovered weapon matched them.,0,Low,Not Guilty,0,[],15,0.0
+d6b543ba-91c5-46ef-a780-bec3aa6d6458,Guilty,341,"341,307,420",the accused planned and executed to blackmailed the witness at bus stop for personal gain.,14,Low,,1,"['341', '307', '420']",5,0.04666666666666667
+49b8c099-ecc7-417a-8042-f01920fcbae7,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+468bce4a-314b-49cd-95a6-f890c428612b,Guilty,326,"326,304B","fir and forensic report show the accused strangled the woman during a domestic argument, resulting in death.",76,Medium,,1,"['326', '304B']",4,0.25333333333333335
+39780e8c-9efe-4b35-83bd-3b2521ba967d,Guilty,406,"406,420,307","during a robbery attempt, eyewitness statements captured the accused trespassed the neighbour at bus stop.",91,Medium,,1,"['406', '420', '307']",10,0.30333333333333334
+0b8cb21e-6785-4440-9a1e-18451ecf1953,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+866bc045-8b3f-44e3-9869-67d15fa2df9e,Guilty,420,"420,120B,304B","the accused extorted the victim at the restaurant after a business deal, causing death. bank transaction logs confirmed the act.",117,Medium,,1,"['420', '120B', '304B']",11,0.39
+c0d12e27-b8bd-40ef-9251-774dfbf86eba,Guilty,468,"468,307,354","during a family dispute, forensic report captured the accused stole the wife at roadside.",113,Medium,,1,"['468', '307', '354']",12,0.3766666666666667
+8b5f5703-a83d-4149-9d16-9fe91e05812a,Guilty,363,363,investigation found forensic report and witnesses confirming that the accused cheated the employee leading to death.,23,Low,,1,['363'],7,0.07666666666666667
+c4aa5536-9da9-428f-a0bb-3d68eec50a63,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+bfedc89c-f198-4e51-8189-bfd0ac1155a5,Not Guilty,NONE,,police could not recover any weapon or cctv footage supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+aa1abf36-0583-4a6a-8be8-6df0b4ce295c,Not Guilty,NONE,,witnesses gave contradictory statements and bank transaction logs was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+083081a1-1393-4e3a-993e-66cc5a9b7836,Not Guilty,NONE,,the accused was present nearby but no cctv footage linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+fdb50e07-4089-4da1-b61b-0a37c8696953,Not Guilty,NONE,,the accused provided a verified alibi; no dna test matched them.,0,Low,Not Guilty,0,[],15,0.0
+40ab0758-815c-4e2f-8a77-ee26095b6cea,Guilty,354,354,"fir and forensic report show the accused raped the wife during a quarrel, resulting in public disturbance.",6,Low,,1,['354'],6,0.02
+bbb3a3e3-f7f4-4544-8986-e653729ef2de,Guilty,326,"326,376",victim's statement and forensic report prove that the accused intentionally shot the public servant.,113,Medium,,1,"['326', '376']",4,0.3766666666666667
+a64305c3-5390-48bb-b622-2c6d6af662c7,Guilty,307,"307,341",investigation found recovered weapon and witnesses confirming that the accused forged the woman leading to serious injury.,258,High,,1,"['307', '341']",3,0.8600000000000001
+6a9abd48-c99b-414d-a590-bcca398d59bd,Not Guilty,NONE,,witnesses gave contradictory statements and cctv footage was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+e3d54b67-e572-4179-a63a-73c4e2b92069,Guilty,354,354,"the accused stole the victim at the market after a political rally, causing property loss. forensic report confirmed the act.",26,Low,,1,['354'],6,0.08666666666666667
+65cfd3cc-64a7-443b-9313-0a2beb605601,Guilty,354,"354,468,379",investigation found digital evidence and witnesses confirming that the accused trespassed the minor leading to property loss.,20,Low,,1,"['354', '468', '379']",6,0.06666666666666667
+5e2a26bc-5cff-4f31-bbe8-859697e095ee,Guilty,420,"420,307","the accused stole the business partner at the roadside after a domestic argument, causing death. forensic report confirmed the act.",73,Medium,,1,"['420', '307']",11,0.24333333333333335
+c2a8a7ae-d922-4d71-82ba-f703dac7fbc2,Not Guilty,NONE,,police could not recover any weapon or bank transaction logs supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+231f09f0-bd82-4d61-b202-26cbc0944e57,Not Guilty,NONE,,the accused provided a verified alibi; no cctv footage matched them.,0,Low,Not Guilty,0,[],15,0.0
+d654baeb-b93e-418e-b8fc-f6b15389157e,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+b47ddf49-2e48-466d-af16-6b3c494987c1,Guilty,379,379,investigation found eyewitness statements and witnesses confirming that the accused raped the woman leading to public disturbance.,27,Low,,1,['379'],9,0.09000000000000001
+a9a7a3c8-e233-4c7c-9db5-aacf20b51d7a,Guilty,376,"376,304B,354",the accused planned and executed to raped the witness at restaurant for personal gain.,153,High,,1,"['376', '304B', '354']",8,0.51
+3c94efba-2766-4daa-bbf5-907d725fb87f,Not Guilty,NONE,,the accused was present nearby but no eyewitness statements linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+e233a556-464b-476b-9726-2605b69deaed,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+d43787ea-ea23-4ccd-bede-1f17082dd6b3,Guilty,341,341,victim's statement and medical certificate prove that the accused intentionally blackmailed the public servant.,14,Low,,1,['341'],5,0.04666666666666667
+44c217c5-c681-49cd-ba22-ea70073b9897,Not Guilty,NONE,,the accused provided a verified alibi; no digital evidence matched them.,0,Low,Not Guilty,0,[],15,0.0
+109f224c-848e-45fe-ab15-20ca0b4eca0f,Guilty,468,"468,379",the accused planned and executed to threatened the police officer at bus stop for personal gain.,77,Medium,,1,"['468', '379']",12,0.2566666666666667
+77b3538b-e7ea-4f3d-96bc-b1c7ec893b01,Guilty,302,"302,468","fir and forensic report show the accused strangled the witness during a business deal, resulting in serious injury.",258,High,,1,"['302', '468']",1,0.8600000000000001
+ff007f9a-8d8a-4efe-99bb-7fa13e172b05,Guilty,406,"406,304B,468",investigation found recovered weapon and witnesses confirming that the accused poisoned the woman leading to death.,91,Medium,,1,"['406', '304B', '468']",10,0.30333333333333334
+4a884e39-f2f1-40d2-b70a-db1ba0efc350,Not Guilty,NONE,,police could not recover any weapon or forensic report supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+8868c3f8-d3a3-4f8a-9065-9ff4fc9084af,Guilty,363,"363,498A","during a political rally, cctv footage captured the accused extorted the witness at office.",9,Low,,1,"['363', '498A']",7,0.030000000000000002
+0afc460f-2a80-49da-a666-e52bef13d084,Guilty,420,420,"fir and forensic report show the accused cheated the wife during a robbery attempt, resulting in mental trauma.",61,Medium,,1,['420'],11,0.20333333333333334
+23619627-fec7-4481-8f6d-6e3c93fbd699,Guilty,307,"307,468,354","fir and forensic report show the accused extorted the business partner during a public protest, resulting in mental trauma.",180,High,,1,"['307', '468', '354']",3,0.6000000000000001
+ef620f8e-baf5-4dc3-b372-ddb6d9291728,Not Guilty,NONE,,witnesses gave contradictory statements and recovered weapon was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+f7cceacd-a386-4301-8800-85c4f95fc093,Guilty,302,302,investigation found bank transaction logs and witnesses confirming that the accused burned the bank officer leading to public disturbance.,141,High,,1,['302'],1,0.47000000000000003
+0a0e0a81-f759-4d62-83c7-4d409d0dd538,Not Guilty,NONE,,the accused provided a verified alibi; no eyewitness statements matched them.,0,Low,Not Guilty,0,[],15,0.0
+7dacea00-3921-436a-83c5-ca1c2b7709d8,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+e052370d-1445-4291-9392-1577662aa9f5,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+4d26e10b-34c0-449d-96df-d946576b647b,Guilty,304B,"304B,406",investigation found digital evidence and witnesses confirming that the accused forged the bank officer leading to death.,175,High,,1,"['304B', '406']",2,0.5833333333333334
+0b68d491-6aba-4272-bb06-1f0e92e7bedf,Not Guilty,NONE,,the accused was present nearby but no eyewitness statements linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+37aa08c7-1996-4e83-9218-e6f9fc82dc80,Guilty,379,"379,468","the accused forged the victim at the public park after a family dispute, causing financial damage. medical certificate confirmed the act.",35,Low,,1,"['379', '468']",9,0.11666666666666667
+687261e1-5a58-4c41-814c-a69a274a2fef,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+cc392d60-1c2f-4393-a62c-d37baa48335d,Not Guilty,NONE,,witnesses gave contradictory statements and recovered weapon was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+88787e20-ad4e-46c4-852b-8152d804b560,Not Guilty,NONE,,witnesses gave contradictory statements and cctv footage was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+283e53e1-8cba-4d2e-9153-32a3389fd3a0,Not Guilty,NONE,,witnesses gave contradictory statements and cctv footage was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+30102e81-778c-4994-bd78-9ee8bb447a26,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+4b69d3e3-adc8-45c7-bbe1-eb2932225663,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+48d4046a-4d0b-4526-b663-27e60a60c470,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+7733a870-709b-4a6b-8539-a9d5b52a5f53,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+ef829860-8445-4c93-aaa5-e7dade5a71ee,Guilty,304B,304B,"fir and forensic report show the accused raped the public servant during a quarrel, resulting in loss of life.",217,High,,1,['304B'],2,0.7233333333333334
+48f9a54e-316a-4f66-b0d6-f4050fc6b7d1,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+c6d69464-2d26-4b6d-8e6c-50898ae5a113,Not Guilty,NONE,,the accused provided a verified alibi; no medical certificate matched them.,0,Low,Not Guilty,0,[],15,0.0
+ae27b9d5-d8f3-496c-bdc7-086723d701eb,Guilty,406,"406,379","the accused poisoned the victim at the school after a family dispute, causing financial damage. eyewitness statements confirmed the act.",93,Medium,,1,"['406', '379']",10,0.31
+39a5865a-c4d6-4ab4-ad72-19c03243be0a,Guilty,420,"420,406,354","fir and forensic report show the accused poisoned the public servant during a robbery attempt, resulting in death.",54,Medium,,1,"['420', '406', '354']",11,0.18000000000000002
+2f64ef83-8c0d-46ab-8a06-d1c015032b95,Guilty,120B,"120B,420","during a political rally, medical certificate captured the accused extorted the police officer at roadside.",30,Low,,1,"['120B', '420']",0,0.1
+33b918d7-b5d7-4e55-b96b-23e553404a59,Not Guilty,NONE,,police could not recover any weapon or forensic report supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+91da47ef-b2e4-4ca2-a582-c3fb203b6cca,Guilty,354,354,"fir and forensic report show the accused stabbed the customer during a business deal, resulting in serious injury.",19,Low,,1,['354'],6,0.06333333333333334
+dfc3d7ff-787a-47f3-8a57-14f078086a4b,Not Guilty,NONE,,police could not recover any weapon or bank transaction logs supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+edd43fc5-22a9-4866-b632-1b1d376cc3fe,Not Guilty,NONE,,the accused was present nearby but no dna test linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+a0764670-52c2-4dd1-b8f2-4fa60a118366,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+4e3c7676-7461-4a76-9f5e-e3973c074f21,Guilty,363,"363,304B",investigation found cctv footage and witnesses confirming that the accused stabbed the witness leading to loss of life.,19,Low,,1,"['363', '304B']",7,0.06333333333333334
+b584585e-8873-49ac-8e29-e85f84195454,Guilty,420,420,"the accused stabbed the customer at the public park after a family dispute, causing loss of life. bank transaction logs confirmed the act.",55,Medium,,1,['420'],11,0.18333333333333335
+d4314e7b-59b7-41da-b7c6-f33c397c2a0c,Guilty,341,341,"the accused blackmailed the customer at the temple after a political rally, causing mental trauma. forensic report confirmed the act.",19,Low,,1,['341'],5,0.06333333333333334
+724d5a12-c638-4163-b8ac-3d3187a30774,Guilty,420,"420,506,498A",the accused planned and executed to shot the minor at train station for personal gain.,114,Medium,,1,"['420', '506', '498A']",11,0.38
+cca7de6c-c4ef-4a30-91a9-df1178227cb7,Guilty,468,"468,376,363","the accused harassed the public servant at the public park after a political rally, causing loss of life. bank transaction logs confirmed the act.",44,Medium,,1,"['468', '376', '363']",12,0.14666666666666667
+f5001b44-558e-4af9-b861-11e5b58d2b65,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+1bf73b99-7d28-4e41-a945-c517b3fb6c50,Guilty,363,363,"the accused abducted the minor at the roadside after a domestic argument, causing property loss. dna test confirmed the act.",32,Low,,1,['363'],7,0.10666666666666667
+1b42447f-6e07-4782-9b6a-5028e1320ede,Guilty,302,"302,379,420",the accused planned and executed to assaulted the neighbour at temple for personal gain.,285,High,,1,"['302', '379', '420']",1,0.9500000000000001
+b441744d-30fc-48ff-8932-ac1ce75ff53c,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+4ba8957a-d82a-4814-af95-3f8295d3a62f,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+2eb63fec-fd9d-4d50-b046-53d10c713fe6,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+2707651e-b43e-4280-9c85-04374ac61130,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+8ffbdd1e-ded2-473f-b91a-de0e0af42817,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+1db311b8-22f7-4982-999f-815026203086,Not Guilty,NONE,,police could not recover any weapon or medical certificate supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+8e3737b1-af17-4847-8e7e-abcb00f84cfd,Guilty,120B,"120B,341",victim's statement and medical certificate prove that the accused intentionally assaulted the customer.,20,Low,,1,"['120B', '341']",0,0.06666666666666667
+55478bad-1483-41c2-8fe9-bf83d92abb5c,Guilty,506,506,the accused planned and executed to burned the business partner at hotel for personal gain.,90,Medium,,1,['506'],14,0.30000000000000004
+ff846875-fa0c-4462-bcaa-4832ad0b9f43,Guilty,307,"307,363",victim's statement and eyewitness statements prove that the accused intentionally burned the employee.,267,High,,1,"['307', '363']",3,0.89
+777c49c7-9d00-4e41-b609-2a3fe34b73cc,Guilty,304B,304B,the accused planned and executed to shot the neighbour at hotel for personal gain.,165,High,,1,['304B'],2,0.55
+90b7b7df-54f2-4fcd-90db-e78a69593d06,Guilty,341,"341,506,354","the accused threatened the business partner at the temple after a business deal, causing loss of life. recovered weapon confirmed the act.",11,Low,,1,"['341', '506', '354']",5,0.03666666666666667
+fac8e1cd-ce5b-43ee-a397-648f1ba84656,Not Guilty,NONE,,the accused provided a verified alibi; no recovered weapon matched them.,0,Low,Not Guilty,0,[],15,0.0
+158979d8-a554-4610-89e6-f1d51eda5781,Not Guilty,NONE,,the accused was present nearby but no forensic report linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+c96afb36-fe87-463c-ad9e-ada0adaa0db2,Not Guilty,NONE,,the accused provided a verified alibi; no bank transaction logs matched them.,0,Low,Not Guilty,0,[],15,0.0
+c31a05de-37e5-4131-bd23-219dd3c50546,Not Guilty,NONE,,the accused provided a verified alibi; no cctv footage matched them.,0,Low,Not Guilty,0,[],15,0.0
+94fef26f-4588-4524-926a-5ca2f82c7f02,Guilty,302,302,the accused planned and executed to burned the minor at bus stop for personal gain.,240,High,,1,['302'],1,0.8
+af0487c7-2b12-4fbe-a478-76b86b1da00b,Guilty,307,"307,302,506",investigation found cctv footage and witnesses confirming that the accused strangled the employee leading to death.,289,High,,1,"['307', '302', '506']",3,0.9633333333333334
+52433397-1ec8-4766-ab94-13d3aa8145eb,Guilty,354,"354,379,341",victim's statement and bank transaction logs prove that the accused intentionally blackmailed the bank officer.,8,Low,,1,"['354', '379', '341']",6,0.02666666666666667
+aa47a97b-005e-4aa7-9512-811bf965bc8d,Guilty,379,379,victim's statement and cctv footage prove that the accused intentionally abducted the bank officer.,13,Low,,1,['379'],9,0.043333333333333335
+e6d42248-61bd-40ee-aa1e-9cc05a5d898e,Guilty,304B,"304B,406",the accused planned and executed to raped the witness at home for personal gain.,284,High,,1,"['304B', '406']",2,0.9466666666666668
+b879e6e8-110b-4ed2-b6c4-c4592c64c065,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+c4e550c4-1789-419a-b235-337bc166feb0,Not Guilty,NONE,,police could not recover any weapon or eyewitness statements supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+eaecc447-33f3-435a-9284-6bc4728639ad,Guilty,376,"376,363",investigation found bank transaction logs and witnesses confirming that the accused assaulted the victim leading to property loss.,222,High,,1,"['376', '363']",8,0.7400000000000001
+3477019b-9679-4c39-b686-2da3939a8bdc,Guilty,120B,"120B,376",victim's statement and digital evidence prove that the accused intentionally hit the business partner.,32,Low,,1,"['120B', '376']",0,0.10666666666666667
+d91286a0-3f38-4a76-823d-21b182f5a7a0,Not Guilty,NONE,,the accused was present nearby but no digital evidence linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+28072cb7-9214-4252-b941-f963005c9b58,Guilty,304B,"304B,376,341",investigation found bank transaction logs and witnesses confirming that the accused raped the minor leading to loss of life.,180,High,,1,"['304B', '376', '341']",2,0.6000000000000001
+39dc6dba-974c-4432-bd33-a1c3bb9774c9,Not Guilty,NONE,,the accused provided a verified alibi; no digital evidence matched them.,0,Low,Not Guilty,0,[],15,0.0
+51ac351e-f7e8-4538-88b3-d7a79c7032da,Not Guilty,NONE,,witnesses gave contradictory statements and cctv footage was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+ae16b92f-5ed3-4337-98dc-aa7d6d47a87f,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+4884a470-ceed-4d3d-ae09-9cacbda2379b,Guilty,302,"302,326","the accused burned the public servant at the home after a business deal, causing mental trauma. dna test confirmed the act.",175,High,,1,"['302', '326']",1,0.5833333333333334
+3416efa1-2109-4008-9a82-07e2e1a01ef5,Guilty,498A,"498A,304B","fir and forensic report show the accused threatened the police officer during a business deal, resulting in serious injury.",62,Medium,,1,"['498A', '304B']",13,0.2066666666666667
+8c28de70-730f-467b-9647-44c953645d66,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+75ac29b5-44b5-43b2-ab06-eab519c4dac0,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+fc64f38b-3151-484c-8813-6e16c842ef8c,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+99470aad-14ad-4635-9653-eaf961e4d1a8,Not Guilty,NONE,,police could not recover any weapon or recovered weapon supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+578afff0-97f1-4572-893d-a37be5080120,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+3568d3a3-50b2-45d0-90a2-56478d69f2a1,Guilty,304B,"304B,468,302","during a public protest, digital evidence captured the accused harassed the employee at public park.",294,High,,1,"['304B', '468', '302']",2,0.9800000000000001
+7200b4ac-83f2-4aab-bde5-d27ea6143f0b,Not Guilty,NONE,,police could not recover any weapon or recovered weapon supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+06e92ce7-4293-409c-9f9d-738aa3ae2594,Guilty,304B,"304B,420","fir and forensic report show the accused raped the public servant during a political rally, resulting in mental trauma.",193,High,,1,"['304B', '420']",2,0.6433333333333334
+049780b0-6782-47fa-a162-c039b9393e44,Guilty,363,363,victim's statement and digital evidence prove that the accused intentionally extorted the wife.,28,Low,,1,['363'],7,0.09333333333333334
+66760fd4-9143-49e4-be43-5c2b59928336,Not Guilty,NONE,,the accused provided a verified alibi; no eyewitness statements matched them.,0,Low,Not Guilty,0,[],15,0.0
+4806aa0d-fe95-48c6-9aeb-144c7591a50f,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+460fcdca-dffe-4ee7-bd35-ca1b8478feda,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+59888e29-7788-42a2-a7fb-a46cf43e3deb,Guilty,498A,498A,investigation found forensic report and witnesses confirming that the accused threatened the neighbour leading to financial damage.,77,Medium,,1,['498A'],13,0.2566666666666667
+24e2259f-d5a8-4731-a562-be5240d6f841,Guilty,363,363,investigation found dna test and witnesses confirming that the accused blackmailed the public servant leading to financial damage.,10,Low,,1,['363'],7,0.03333333333333333
+e2287083-8c26-4cc1-9638-e6e792f1523b,Guilty,406,406,"during a quarrel, medical certificate captured the accused poisoned the customer at market.",97,Medium,,1,['406'],10,0.32333333333333336
+30460c95-fd12-4d4d-8bd8-65c53c78b5f9,Guilty,376,"376,420,379",victim's statement and eyewitness statements prove that the accused intentionally burned the neighbour.,276,High,,1,"['376', '420', '379']",8,0.92
+149ad52c-3add-42ac-96cc-e5925cce4492,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+b55f58e8-c926-4317-8589-2b754521c78b,Guilty,376,"376,341",the accused planned and executed to forged the employee at public park for personal gain.,190,High,,1,"['376', '341']",8,0.6333333333333334
+70ef57e3-b31e-4bb7-9681-18bbf4024bbe,Guilty,326,"326,376,307","fir and forensic report show the accused raped the public servant during a business deal, resulting in public disturbance.",74,Medium,,1,"['326', '376', '307']",4,0.24666666666666667
+8fae02d2-6b15-4260-a322-52de69a2eae2,Not Guilty,NONE,,witnesses gave contradictory statements and bank transaction logs was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+60ced698-b6fd-48d2-aace-331b72e4d566,Guilty,307,"307,304B,406",the accused planned and executed to abducted the neighbour at roadside for personal gain.,130,High,,1,"['307', '304B', '406']",3,0.43333333333333335
+63c9c632-1884-4bb0-beda-b662875416e9,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+57124f7f-43f5-42a0-abba-2a677e7c99d5,Guilty,341,341,victim's statement and digital evidence prove that the accused intentionally harassed the neighbour.,32,Low,,1,['341'],5,0.10666666666666667
+c790f256-664d-4064-8173-8d40e823c81b,Guilty,406,406,the accused planned and executed to poisoned the customer at market for personal gain.,114,Medium,,1,['406'],10,0.38
+d21599e6-326b-4b95-93c8-4ee9752b3952,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+af077457-50d6-4ee1-8460-af357f73be6f,Guilty,354,"354,506,304B","the accused assaulted the police officer at the hotel after a family dispute, causing death. eyewitness statements confirmed the act.",6,Low,,1,"['354', '506', '304B']",6,0.02
+e3ab48b9-a00c-42ba-b568-f3284301943e,Guilty,506,"506,304B","fir and forensic report show the accused strangled the employee during a family dispute, resulting in death.",107,Medium,,1,"['506', '304B']",14,0.3566666666666667
+6946c302-18e5-4346-9e51-5a1680b4183f,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+2a3ea37e-8ec5-4b02-82c8-64cd245b4b8d,Not Guilty,NONE,,witnesses gave contradictory statements and forensic report was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+36f5e3a6-bd07-41d4-88f3-c2021054982d,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+d1257861-edfb-4f88-8d78-1184797ba660,Guilty,506,"506,341","fir and forensic report show the accused harassed the woman during a public protest, resulting in loss of life.",93,Medium,,1,"['506', '341']",14,0.31
+4db8a1c7-40e0-4213-a7c7-24239f25ed3d,Not Guilty,NONE,,police could not recover any weapon or digital evidence supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+df6c5454-0b5e-4e80-b475-4dc883e6b5cd,Not Guilty,NONE,,witnesses gave contradictory statements and recovered weapon was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+26ee43c6-6acf-452d-9c04-9cfda8275c36,Not Guilty,NONE,,the accused was present nearby but no bank transaction logs linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+a8c13706-60c7-4bac-bb2f-16136fc0bb13,Guilty,406,"406,120B,420",victim's statement and medical certificate prove that the accused intentionally strangled the minor.,81,Medium,,1,"['406', '120B', '420']",10,0.27
+93932016-6880-4b10-a1a2-4f6c94c664da,Guilty,498A,"498A,406",investigation found medical certificate and witnesses confirming that the accused stabbed the victim leading to public disturbance.,98,Medium,,1,"['498A', '406']",13,0.32666666666666666
+92a133d0-648e-47f6-9c71-93d91809b036,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+62353a34-db6f-4f74-aba6-438be7aad73a,Guilty,363,363,"the accused extorted the police officer at the bus stop after a public protest, causing serious injury. medical certificate confirmed the act.",17,Low,,1,['363'],7,0.05666666666666667
+832a1319-ee9b-45c1-8987-229db2873905,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+c421f08c-2721-42a1-bb86-6a14c6a7312d,Guilty,326,326,investigation found bank transaction logs and witnesses confirming that the accused poisoned the woman leading to mental trauma.,73,Medium,,1,['326'],4,0.24333333333333335
+e1b03698-c42a-492a-a7b7-bb61f2fd9875,Guilty,341,"341,506,376",victim's statement and bank transaction logs prove that the accused intentionally abducted the employee.,9,Low,,1,"['341', '506', '376']",5,0.030000000000000002
+75b9b4ac-f5e6-425c-8d9b-73abe615e211,Guilty,304B,"304B,302,341",the accused planned and executed to stole the wife at office for personal gain.,200,High,,1,"['304B', '302', '341']",2,0.6666666666666667
+b3cc5850-1137-48c9-8478-82a6368f81a6,Guilty,304B,"304B,376,341",investigation found forensic report and witnesses confirming that the accused blackmailed the woman leading to loss of life.,288,High,,1,"['304B', '376', '341']",2,0.9600000000000001
+ec8d77e9-1af4-479e-9627-e2470a440325,Not Guilty,NONE,,police could not recover any weapon or cctv footage supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+5c3c38f5-e3ff-4265-b97f-687a6f4d79c7,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+4d81d38b-eb95-4419-a7d7-4805ffd24979,Guilty,354,"354,498A","during a robbery attempt, forensic report captured the accused hit the business partner at public park.",19,Low,,1,"['354', '498A']",6,0.06333333333333334
+cb237353-a3d8-47b7-b018-b58587064ed0,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+0c08197d-e85e-48e1-81f0-007798f6f7e7,Guilty,406,"406,304B",victim's statement and bank transaction logs prove that the accused intentionally shot the public servant.,119,Medium,,1,"['406', '304B']",10,0.39666666666666667
+2cc75c5b-a9c2-472c-adf9-537b7fe03d73,Guilty,302,302,investigation found bank transaction logs and witnesses confirming that the accused stabbed the police officer leading to financial damage.,263,High,,1,['302'],1,0.8766666666666667
+2eac6155-bae5-4a15-a8ac-02e036e2938b,Not Guilty,NONE,,police could not recover any weapon or recovered weapon supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+330c1edc-a39d-4c85-9d29-ccc96c108aa8,Guilty,379,379,victim's statement and recovered weapon prove that the accused intentionally cheated the bank officer.,6,Low,,1,['379'],9,0.02
+3b5d87ff-4c28-4a2d-acaa-bac93bc12c54,Not Guilty,NONE,,the accused was present nearby but no bank transaction logs linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+3d3e5bd9-6f46-4258-9812-1cc544309787,Not Guilty,NONE,,police could not recover any weapon or recovered weapon supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+3958b4d7-1702-47ea-b191-b8f7536d927c,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+3bc4a2cc-4f20-420b-ad30-eeb317784465,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+fba2ff03-2cc9-466c-bb5f-ecc98f0974c0,Not Guilty,NONE,,witnesses gave contradictory statements and recovered weapon was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+cfeb677c-715a-47f9-a7d5-01401405679d,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+c5f91647-1dd7-4d8f-b797-d865269a776d,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+993acfc5-b350-4dda-802c-dc3bfa623b3d,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+020b5526-ecd4-45c3-902e-de4c823445a3,Not Guilty,NONE,,police could not recover any weapon or recovered weapon supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+da9a48e6-f684-49f6-8860-5e2ce7538309,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+2dbf8c26-a3f5-4005-a540-3a605f7b1cfc,Guilty,302,302,"fir and forensic report show the accused burned the woman during a business deal, resulting in death.",242,High,,1,['302'],1,0.8066666666666668
+10ceebae-2052-4d89-8128-2fdd6114cdb2,Guilty,120B,"120B,326","fir and forensic report show the accused poisoned the wife during a public protest, resulting in death.",24,Low,,1,"['120B', '326']",0,0.08
+c43df77a-9742-474c-bc6d-3c3cfb92ec6c,Guilty,363,"363,304B,326",investigation found medical certificate and witnesses confirming that the accused cheated the employee leading to loss of life.,14,Low,,1,"['363', '304B', '326']",7,0.04666666666666667
+f905d0fc-aa0e-475c-b08b-3b9f714a9c12,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+8d45cbb4-b920-4623-b2eb-7135eae911a3,Not Guilty,NONE,,the accused provided a verified alibi; no eyewitness statements matched them.,0,Low,Not Guilty,0,[],15,0.0
+ca3055b0-764f-4cdd-a457-21af5cb31572,Not Guilty,NONE,,witnesses gave contradictory statements and digital evidence was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+2399f997-b381-4417-bb00-22f2a00e36ec,Guilty,420,"420,379",the accused planned and executed to cheated the customer at bus stop for personal gain.,73,Medium,,1,"['420', '379']",11,0.24333333333333335
+a0023ce7-3644-46aa-aded-2e1cfc081284,Guilty,376,"376,302,354",victim's statement and bank transaction logs prove that the accused intentionally stole the minor.,196,High,,1,"['376', '302', '354']",8,0.6533333333333333
+ece666b3-bcfc-44d3-b08f-f1299742a789,Guilty,304B,304B,investigation found forensic report and witnesses confirming that the accused trespassed the employee leading to public disturbance.,296,High,,1,['304B'],2,0.9866666666666667
+0e929de9-d002-4460-996f-5556e006d7e1,Not Guilty,NONE,,the accused was present nearby but no dna test linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+070fd33c-9011-4d71-8ba8-93af7172035f,Not Guilty,NONE,,the accused provided a verified alibi; no recovered weapon matched them.,0,Low,Not Guilty,0,[],15,0.0
+98702754-e3e2-43a9-9c38-db32347abadd,Not Guilty,NONE,,the accused was present nearby but no bank transaction logs linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+bf7c7f2d-420c-4875-9d09-5af04fddd0f5,Guilty,354,354,"fir and forensic report show the accused hit the bank officer during a domestic argument, resulting in mental trauma.",9,Low,,1,['354'],6,0.030000000000000002
+a4731a27-e038-46d9-823e-9e2a72cec5c7,Guilty,302,"302,376",investigation found recovered weapon and witnesses confirming that the accused strangled the business partner leading to financial damage.,234,High,,1,"['302', '376']",1,0.78
+91e65e9f-8ab6-441c-b448-8cd40cb92a4f,Guilty,120B,"120B,420",victim's statement and bank transaction logs prove that the accused intentionally shot the minor.,25,Low,,1,"['120B', '420']",0,0.08333333333333334
+ce565891-1f1e-4038-943a-1a42ca117f15,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+68e96513-662a-40b6-afb7-6b750459a65f,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+de1cc1f7-6e5c-456e-8392-eb4d4f9bf924,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+654203a1-3fec-4f3f-819f-5d9afbb0d624,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+e32b64a6-ea3c-481b-82ea-659fec88a039,Not Guilty,NONE,,the accused provided a verified alibi; no cctv footage matched them.,0,Low,Not Guilty,0,[],15,0.0
+fa901fe8-6989-4c4b-9b50-ba2c7d69dcdc,Guilty,506,"506,307","the accused poisoned the bank officer at the market after a political rally, causing loss of life. dna test confirmed the act.",47,Medium,,1,"['506', '307']",14,0.15666666666666668
+e010dab6-bb50-4039-a4d6-8880bc223ecb,Not Guilty,NONE,,the accused was present nearby but no bank transaction logs linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+18ebdc6f-0e1c-4b75-8c72-48369fa6d2e0,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+49462f64-34f6-428b-bbc7-a67e23f75f55,Guilty,406,406,"during a quarrel, digital evidence captured the accused trespassed the customer at school.",120,Medium,,1,['406'],10,0.4
+75197563-be4c-491d-a551-98bdf0cd1382,Guilty,420,"420,307","during a public protest, forensic report captured the accused harassed the police officer at train station.",67,Medium,,1,"['420', '307']",11,0.22333333333333336
+26d06526-041b-47b6-a339-7956267de736,Guilty,120B,"120B,363",investigation found forensic report and witnesses confirming that the accused stabbed the minor leading to serious injury.,29,Low,,1,"['120B', '363']",0,0.09666666666666668
+991ed646-ed1f-44bc-8eb0-8044968ae1b8,Guilty,307,"307,120B","fir and forensic report show the accused burned the bank officer during a quarrel, resulting in death.",143,High,,1,"['307', '120B']",3,0.4766666666666667
+c803cd80-825f-4ee7-abbb-0946a8bec3e3,Not Guilty,NONE,,the accused was present nearby but no bank transaction logs linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+69a11411-ed18-48a6-bfe1-17343702c0be,Guilty,376,"376,420,304B","during a family dispute, cctv footage captured the accused abducted the public servant at office.",265,High,,1,"['376', '420', '304B']",8,0.8833333333333334
+210a6a0e-966e-4725-9304-0543444a2970,Not Guilty,NONE,,the accused provided a verified alibi; no bank transaction logs matched them.,0,Low,Not Guilty,0,[],15,0.0
+26abd7fd-f747-4abe-bedf-ac2d20054d3e,Guilty,307,307,"fir and forensic report show the accused stole the customer during a domestic argument, resulting in mental trauma.",238,High,,1,['307'],3,0.7933333333333333
+975c89f5-0b6d-4fcc-8461-e46ba4b751df,Not Guilty,NONE,,the accused was present nearby but no dna test linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+453c0e3f-b26a-4754-8a1c-83f228933737,Guilty,302,"302,304B,326","during a public protest, medical certificate captured the accused abducted the neighbour at factory.",281,High,,1,"['302', '304B', '326']",1,0.9366666666666668
+0668f7d5-6744-4ba4-80d6-34b55f81ad6c,Guilty,120B,"120B,354,498A",the accused planned and executed to assaulted the woman at school for personal gain.,7,Low,,1,"['120B', '354', '498A']",0,0.023333333333333334
+98309e4d-a99a-4f53-9b96-8d1613f28e9c,Guilty,379,"379,506,406","fir and forensic report show the accused trespassed the neighbour during a political rally, resulting in serious injury.",36,Low,,1,"['379', '506', '406']",9,0.12000000000000001
+b20334d6-3d24-49b2-a7f0-975caa15a5fc,Not Guilty,NONE,,the accused provided a verified alibi; no bank transaction logs matched them.,0,Low,Not Guilty,0,[],15,0.0
+9840a3fd-9f20-4b1b-9b70-9c673193a04a,Not Guilty,NONE,,witnesses gave contradictory statements and bank transaction logs was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+b27fe5aa-0f66-4384-8546-c7fb623be08d,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+43243337-d551-45a3-868c-54fca92619e6,Guilty,468,"468,302","during a domestic argument, dna test captured the accused poisoned the police officer at office.",64,Medium,,1,"['468', '302']",12,0.21333333333333335
+1c312681-862c-45ba-bd07-43938511c2da,Not Guilty,NONE,,witnesses gave contradictory statements and cctv footage was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+457dcd29-5fa2-4838-9a14-1f9275f7e8de,Not Guilty,NONE,,the accused provided a verified alibi; no digital evidence matched them.,0,Low,Not Guilty,0,[],15,0.0
+2930785d-ad3a-46b1-aefe-357d5c61e762,Not Guilty,NONE,,the accused was present nearby but no digital evidence linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+011783c3-9a55-4eb7-89dd-7ffee6f5b748,Guilty,304B,304B,victim's statement and cctv footage prove that the accused intentionally extorted the public servant.,256,High,,1,['304B'],2,0.8533333333333334
+ff00567c-48c1-4ca1-83a7-d9bc5c43701d,Guilty,341,341,"the accused poisoned the wife at the home after a domestic argument, causing loss of life. bank transaction logs confirmed the act.",27,Low,,1,['341'],5,0.09000000000000001
+b68c5618-7c71-45b3-962c-24a2ecd36a88,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+92427e37-948f-49c5-903d-723b207b124a,Guilty,506,"506,354",victim's statement and dna test prove that the accused intentionally cheated the employee.,63,Medium,,1,"['506', '354']",14,0.21000000000000002
+8185e5c1-a74f-4882-a5e5-ae9c1150c401,Guilty,304B,"304B,468",investigation found recovered weapon and witnesses confirming that the accused assaulted the witness leading to loss of life.,150,High,,1,"['304B', '468']",2,0.5
+f40dca07-d342-4ad4-bd5b-31d52246d6ad,Not Guilty,NONE,,police could not recover any weapon or medical certificate supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+53fbd7df-ad15-4e5b-8bc4-d9a499cc2c05,Not Guilty,NONE,,the accused was present nearby but no bank transaction logs linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+747275da-611a-40e0-933a-b8a1cdc495cf,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+c70f01c9-09a4-4459-9766-6de1a663d679,Not Guilty,NONE,,the accused was present nearby but no bank transaction logs linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+1123aa5c-f74d-4e63-8304-7c5dc5ab60c7,Guilty,354,"354,406",the accused planned and executed to extorted the customer at temple for personal gain.,9,Low,,1,"['354', '406']",6,0.030000000000000002
+2afff02b-f4f5-482b-969c-c8bcc96cf3f7,Guilty,304B,"304B,307,376",victim's statement and dna test prove that the accused intentionally harassed the business partner.,270,High,,1,"['304B', '307', '376']",2,0.9
+4a6f45e2-002d-4c61-a13b-1065fedbff00,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+75f41f32-0e0e-4777-82de-5b3721f8a90f,Not Guilty,NONE,,witnesses gave contradictory statements and forensic report was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+5d45a56c-29b8-4ee8-95bb-5bec32c88904,Not Guilty,NONE,,police could not recover any weapon or recovered weapon supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+dcde098f-8da4-4092-8b9c-a43f2ed634f3,Guilty,376,"376,506,498A","fir and forensic report show the accused burned the police officer during a business deal, resulting in death.",171,High,,1,"['376', '506', '498A']",8,0.5700000000000001
+3da532ec-a53a-4109-bcf4-5c79a3b1e8dc,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+286fabc8-487e-4210-84fc-4fd1f7199e2c,Guilty,376,"376,506,468",victim's statement and recovered weapon prove that the accused intentionally assaulted the minor.,155,High,,1,"['376', '506', '468']",8,0.5166666666666667
+a39a10af-7d94-4dec-a0e6-9ae26afd73ce,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+7efad402-ce33-4f96-b429-2eb3ccdb2975,Not Guilty,NONE,,police could not recover any weapon or dna test supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+55f6fc0e-40e3-4d18-a1bd-dbbd2e32df21,Guilty,341,341,victim's statement and forensic report prove that the accused intentionally extorted the victim.,26,Low,,1,['341'],5,0.08666666666666667
+8408cc47-352b-4151-bc85-397cd00346f2,Guilty,363,363,"during a quarrel, eyewitness statements captured the accused poisoned the minor at train station.",36,Low,,1,['363'],7,0.12000000000000001
+534630e4-baec-452c-8847-5c1685e1cc26,Guilty,341,341,the accused planned and executed to abducted the victim at home for personal gain.,11,Low,,1,['341'],5,0.03666666666666667
+8c3d529f-307b-4b78-a6fb-5bfc6cd84ad5,Not Guilty,NONE,,witnesses gave contradictory statements and recovered weapon was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+5f04ff63-374c-4da9-87e0-b369686e070a,Guilty,506,"506,326,498A",the accused planned and executed to raped the police officer at roadside for personal gain.,97,Medium,,1,"['506', '326', '498A']",14,0.32333333333333336
+2121b836-ba34-45c5-9cbe-8016b82cbd71,Guilty,379,"379,307,363","during a robbery attempt, digital evidence captured the accused poisoned the victim at office.",25,Low,,1,"['379', '307', '363']",9,0.08333333333333334
+0621842f-b243-45af-8268-ca47a9fd164f,Guilty,379,379,victim's statement and bank transaction logs prove that the accused intentionally extorted the business partner.,34,Low,,1,['379'],9,0.11333333333333334
+3274e05e-d757-4c92-97e1-ba235b328410,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+ca510bc7-fdec-4901-a54d-ef176f726b8c,Not Guilty,NONE,,the accused provided a verified alibi; no digital evidence matched them.,0,Low,Not Guilty,0,[],15,0.0
+3f8d6f7a-5d54-45cd-9653-f9dd1e00a371,Guilty,506,"506,363","fir and forensic report show the accused stole the employee during a domestic argument, resulting in financial damage.",52,Medium,,1,"['506', '363']",14,0.17333333333333334
+5cc0a6b0-a64e-468a-8773-be166f791195,Not Guilty,NONE,,police could not recover any weapon or digital evidence supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+ecc77881-d482-4920-8090-fabe3ad1da2a,Not Guilty,NONE,,the accused was present nearby but no eyewitness statements linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+0e5186d1-d307-4b8a-8c07-f29e0b8aea91,Guilty,304B,"304B,120B",victim's statement and dna test prove that the accused intentionally stabbed the woman.,209,High,,1,"['304B', '120B']",2,0.6966666666666667
+60a08ccc-8411-41eb-b522-8d48e60b7ee3,Not Guilty,NONE,,witnesses gave contradictory statements and forensic report was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+e401e3b8-be21-476e-a99d-1148f6ee635a,Not Guilty,NONE,,police could not recover any weapon or dna test supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+4cb3309f-d5dd-407c-8e72-50d68610e626,Guilty,406,"406,468","during a robbery attempt, eyewitness statements captured the accused strangled the police officer at market.",73,Medium,,1,"['406', '468']",10,0.24333333333333335
+bbbc2349-da4b-44f5-8786-54dbeafcac8e,Guilty,307,"307,302",investigation found digital evidence and witnesses confirming that the accused strangled the police officer leading to serious injury.,287,High,,1,"['307', '302']",3,0.9566666666666668
+4085dc41-aa11-4884-aaa2-f1084890a1ea,Not Guilty,NONE,,witnesses gave contradictory statements and forensic report was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+42a3193e-aad3-44b8-84ba-7b60caad8d63,Not Guilty,NONE,,witnesses gave contradictory statements and bank transaction logs was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+68f5cae0-fdb3-4ec9-8f59-a7443d86b738,Guilty,326,"326,406,376","fir and forensic report show the accused burned the police officer during a domestic argument, resulting in property loss.",99,Medium,,1,"['326', '406', '376']",4,0.33
+c4772610-b71a-463e-9017-97861dc01441,Guilty,376,"376,341",the accused planned and executed to forged the customer at bus stop for personal gain.,219,High,,1,"['376', '341']",8,0.7300000000000001
+48aabd01-7783-422d-b2f7-5a2e91df5d91,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+299695c5-6299-4f06-a4cc-7fea28558d90,Guilty,341,"341,376,420","fir and forensic report show the accused forged the woman during a political rally, resulting in loss of life.",36,Low,,1,"['341', '376', '420']",5,0.12000000000000001
+1281c37a-4bcd-4aef-9a8c-d4d2c9abeed1,Guilty,379,379,"the accused shot the witness at the factory after a robbery attempt, causing serious injury. eyewitness statements confirmed the act.",14,Low,,1,['379'],9,0.04666666666666667
+e2cd3f09-68e7-443b-898d-b1ae2df8b645,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+82daa407-1d76-4236-b951-dbcf92b58fdc,Guilty,379,"379,341",investigation found cctv footage and witnesses confirming that the accused strangled the police officer leading to financial damage.,9,Low,,1,"['379', '341']",9,0.030000000000000002
+3f35671f-ba02-497e-81d1-ceb5fcdae098,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+831261fa-1609-4c0f-82bd-16edbf934028,Guilty,354,"354,326","fir and forensic report show the accused hit the minor during a quarrel, resulting in public disturbance.",23,Low,,1,"['354', '326']",6,0.07666666666666667
+c6c4a735-7bce-4534-8a8a-266ecf020e7c,Guilty,406,"406,468,376","the accused extorted the witness at the restaurant after a business deal, causing mental trauma. digital evidence confirmed the act.",84,Medium,,1,"['406', '468', '376']",10,0.28
+6160bc5e-7aec-48a6-b878-b3db95e3c4ab,Guilty,498A,"498A,376","the accused stabbed the victim at the market after a business deal, causing serious injury. cctv footage confirmed the act.",46,Medium,,1,"['498A', '376']",13,0.15333333333333335
+4d151c7f-3ede-4c0a-a551-0fb0bda3b251,Guilty,120B,"120B,363,376","during a political rally, bank transaction logs captured the accused raped the bank officer at office.",23,Low,,1,"['120B', '363', '376']",0,0.07666666666666667
+9af1c32d-7b9f-4ada-a951-c5107f5dc021,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+6962bfdb-28c4-4afe-ba78-2885b04255d6,Guilty,376,"376,498A","the accused shot the woman at the school after a robbery attempt, causing mental trauma. cctv footage confirmed the act.",221,High,,1,"['376', '498A']",8,0.7366666666666667
+e3e0bf0b-06be-4f2f-bdcd-744a55c78acd,Guilty,420,"420,506",investigation found dna test and witnesses confirming that the accused stabbed the woman leading to mental trauma.,108,Medium,,1,"['420', '506']",11,0.36000000000000004
+7c65f4f9-8130-4663-8dde-375cb54b464f,Guilty,354,"354,302","the accused shot the customer at the train station after a public protest, causing serious injury. bank transaction logs confirmed the act.",9,Low,,1,"['354', '302']",6,0.030000000000000002
+ea91d06d-ad38-43c0-a7d4-4d947ef527d6,Guilty,354,"354,341,376","fir and forensic report show the accused poisoned the public servant during a public protest, resulting in serious injury.",33,Low,,1,"['354', '341', '376']",6,0.11
+ce6ff522-9db9-42cb-b344-c609235e7407,Guilty,468,468,"fir and forensic report show the accused threatened the woman during a public protest, resulting in property loss.",52,Medium,,1,['468'],12,0.17333333333333334
+3979a753-ffbe-44c2-931c-a4d70839b321,Not Guilty,NONE,,police could not recover any weapon or medical certificate supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+6272c8e3-7ae0-4512-a728-e4446cfd685a,Guilty,379,379,the accused planned and executed to assaulted the business partner at public park for personal gain.,31,Low,,1,['379'],9,0.10333333333333335
+3c02cb89-a10a-4b92-b88d-3e0323f0b79f,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+ece33751-83b4-4b49-a3f5-b6b031e5b110,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+8cd05f3a-d919-4109-9ba2-a88a27ff007b,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+a189e36b-f900-4193-9db8-1dcd78a0529d,Guilty,468,468,victim's statement and dna test prove that the accused intentionally threatened the customer.,60,Medium,,1,['468'],12,0.2
+81a40d77-b8f6-43a0-97dd-66ed1d393fe3,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+109c2827-0356-4ead-a40c-478694364a3f,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+b516a36d-05c9-44b3-9d8f-d465e14a90b0,Guilty,326,"326,354","fir and forensic report show the accused raped the witness during a public protest, resulting in property loss.",79,Medium,,1,"['326', '354']",4,0.26333333333333336
+731e19c9-d7c1-4ff7-8ace-ceaee3f97e6c,Guilty,302,302,"the accused burned the victim at the hotel after a public protest, causing mental trauma. digital evidence confirmed the act.",247,High,,1,['302'],1,0.8233333333333334
+45a50a26-51d5-46c0-af73-1e3b9a437d3a,Not Guilty,NONE,,police could not recover any weapon or forensic report supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+c6b12435-4102-4468-a898-21bbe761a324,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+10a48c0d-adc0-4be5-aa00-4a5665c0e54c,Not Guilty,NONE,,the accused was present nearby but no digital evidence linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+4cb8c032-0c12-4623-9d82-e72648ecf1f5,Guilty,326,"326,363,406","fir and forensic report show the accused blackmailed the neighbour during a robbery attempt, resulting in property loss.",57,Medium,,1,"['326', '363', '406']",4,0.19
+7b1b0947-fb20-4475-9ffa-ce24373ecffc,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+1e1346cd-5b26-46be-96d9-70749efdd48b,Guilty,354,"354,363,498A","the accused threatened the neighbour at the roadside after a public protest, causing serious injury. recovered weapon confirmed the act.",32,Low,,1,"['354', '363', '498A']",6,0.10666666666666667
+c298b0cd-7db4-4781-b772-4821eb0b6237,Not Guilty,NONE,,the accused provided a verified alibi; no medical certificate matched them.,0,Low,Not Guilty,0,[],15,0.0
+72098645-df3a-4fc8-9760-a3e142a240b1,Guilty,354,"354,379",investigation found dna test and witnesses confirming that the accused poisoned the witness leading to mental trauma.,31,Low,,1,"['354', '379']",6,0.10333333333333335
+117721a0-66c6-4d0c-864c-8a1d77d68c13,Guilty,341,"341,120B,376",investigation found forensic report and witnesses confirming that the accused threatened the police officer leading to serious injury.,12,Low,,1,"['341', '120B', '376']",5,0.04
+8366ef8e-60ab-451a-81db-a46b79f9a3f6,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+f6aa69d3-00d2-4ece-82e7-4687a1f79a21,Not Guilty,NONE,,police could not recover any weapon or eyewitness statements supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+d3b8c7f6-ab25-4065-869c-f05b7aaa60d4,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+183acd65-51eb-4340-83b9-32ec5aa68d15,Guilty,420,420,"fir and forensic report show the accused cheated the police officer during a political rally, resulting in property loss.",49,Medium,,1,['420'],11,0.16333333333333333
+73e90456-bc97-471a-bdaa-4b2e57af8a7e,Guilty,354,"354,363",the accused planned and executed to blackmailed the business partner at hotel for personal gain.,21,Low,,1,"['354', '363']",6,0.07
+a615628f-6a57-4dba-b66d-709752ed7e50,Not Guilty,NONE,,witnesses gave contradictory statements and digital evidence was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+d94e50ff-2055-49de-b11f-37f208b1daad,Not Guilty,NONE,,the accused was present nearby but no forensic report linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+53087388-4e20-4d51-84e2-de8f4b831439,Guilty,341,341,investigation found forensic report and witnesses confirming that the accused threatened the police officer leading to death.,34,Low,,1,['341'],5,0.11333333333333334
+afbb1cec-45a7-4210-8533-24ae8897d9cd,Not Guilty,NONE,,the accused was present nearby but no eyewitness statements linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+64cd42e7-fa78-41c9-9949-d3774e703526,Guilty,341,"341,302,304B",the accused planned and executed to extorted the employee at hotel for personal gain.,25,Low,,1,"['341', '302', '304B']",5,0.08333333333333334
+c15e95a2-2aed-4c13-b32f-246b74c8b352,Not Guilty,NONE,,witnesses gave contradictory statements and digital evidence was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+4c3e1962-eb3c-4bec-b86e-caf5c07f7b82,Guilty,379,379,investigation found bank transaction logs and witnesses confirming that the accused trespassed the business partner leading to loss of life.,16,Low,,1,['379'],9,0.05333333333333334
+f945fbf9-ff51-4f8d-a025-8b8eab254c6f,Not Guilty,NONE,,the accused provided a verified alibi; no bank transaction logs matched them.,0,Low,Not Guilty,0,[],15,0.0
+c45a81d0-2434-4ce6-ac01-338c610d3cee,Guilty,354,"354,363","during a robbery attempt, eyewitness statements captured the accused assaulted the business partner at home.",8,Low,,1,"['354', '363']",6,0.02666666666666667
+864e19aa-3590-458f-87e5-a0e35d0bbb17,Guilty,354,"354,498A",victim's statement and forensic report prove that the accused intentionally shot the wife.,9,Low,,1,"['354', '498A']",6,0.030000000000000002
+bae4f3bb-bf00-435d-95a8-611188393040,Guilty,498A,498A,victim's statement and medical certificate prove that the accused intentionally threatened the minor.,81,Medium,,1,['498A'],13,0.27
+ecb406a0-0e17-4f6d-9227-a5f94daef919,Guilty,120B,"120B,376","during a robbery attempt, eyewitness statements captured the accused blackmailed the public servant at temple.",33,Low,,1,"['120B', '376']",0,0.11
+46f152c6-d7fd-4d98-a066-e57dfb890493,Guilty,341,"341,363,420","the accused raped the minor at the hotel after a domestic argument, causing property loss. forensic report confirmed the act.",12,Low,,1,"['341', '363', '420']",5,0.04
+903c0788-90cb-4637-8027-9d3fe72577f2,Guilty,376,376,investigation found dna test and witnesses confirming that the accused stole the minor leading to death.,241,High,,1,['376'],8,0.8033333333333333
+e45b5134-6ed8-4372-a8c3-ece0e3d53b91,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+9e248079-7000-45c0-a4b3-f63569db7c1b,Guilty,120B,120B,the accused planned and executed to trespassed the bank officer at temple for personal gain.,26,Low,,1,['120B'],0,0.08666666666666667
+5d3426f8-7595-4612-9dd0-1abdcbeb7baf,Guilty,506,506,victim's statement and recovered weapon prove that the accused intentionally blackmailed the witness.,90,Medium,,1,['506'],14,0.30000000000000004
+5507424e-f801-45e3-bf3e-3d22020717cc,Guilty,468,"468,341,379",the accused planned and executed to cheated the business partner at roadside for personal gain.,43,Medium,,1,"['468', '341', '379']",12,0.14333333333333334
+033f5a98-54c7-429a-b1f6-dc686f0d0190,Not Guilty,NONE,,the accused provided a verified alibi; no digital evidence matched them.,0,Low,Not Guilty,0,[],15,0.0
+28a7f31a-a742-44b8-a2f9-fb7a0cbb267f,Guilty,406,"406,363,506","the accused shot the public servant at the public park after a business deal, causing loss of life. recovered weapon confirmed the act.",61,Medium,,1,"['406', '363', '506']",10,0.20333333333333334
+de5f8c20-b833-4e42-8b22-74a01c0f4284,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+7bd86a75-5a55-40e8-a0d7-a3bd9b43cb76,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+651466df-5c7d-4680-824a-d8a22dffd564,Guilty,354,"354,406,420","fir and forensic report show the accused forged the witness during a family dispute, resulting in death.",33,Low,,1,"['354', '406', '420']",6,0.11
+b5be7633-dfe2-4820-8338-39bb0670b987,Not Guilty,NONE,,police could not recover any weapon or digital evidence supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+80a4d9a8-6eae-4bab-a5f9-3410db3e7729,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+e0067604-a6c3-447e-aa8e-8e3649142cad,Not Guilty,NONE,,the accused was present nearby but no forensic report linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+2d727add-dbd1-4792-a2d0-42e159f43614,Guilty,406,"406,120B,307",victim's statement and eyewitness statements prove that the accused intentionally strangled the public servant.,49,Medium,,1,"['406', '120B', '307']",10,0.16333333333333333
+6d3dc33d-f63e-49a0-b698-fed0b933034b,Not Guilty,NONE,,police could not recover any weapon or digital evidence supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+58746342-caeb-4bcb-8c5f-5b687f20309f,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+bb6da544-3b21-4b7c-a70d-b891e0477d73,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+d91396cc-0feb-4d79-a2e9-1af091063d1c,Guilty,506,506,"the accused abducted the bank officer at the factory after a public protest, causing mental trauma. bank transaction logs confirmed the act.",102,Medium,,1,['506'],14,0.34
+7ec2ca2f-e8f8-4b5a-8aba-154e31c65947,Not Guilty,NONE,,witnesses gave contradictory statements and cctv footage was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+d1e82b4c-36af-433b-8e73-a6f84ebcb34b,Guilty,468,468,investigation found digital evidence and witnesses confirming that the accused threatened the wife leading to death.,116,Medium,,1,['468'],12,0.3866666666666667
+2397b2e6-7097-4411-a5af-2fe017907266,Not Guilty,NONE,,police could not recover any weapon or cctv footage supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+39e4099d-fd59-4f61-8e21-08153bfb2a97,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+3d16b72d-e397-421b-b567-7a80032f6832,Guilty,304B,304B,"during a domestic argument, medical certificate captured the accused hit the employee at office.",148,High,,1,['304B'],2,0.49333333333333335
+5e289260-f657-4412-94a4-994e389f8f26,Not Guilty,NONE,,witnesses gave contradictory statements and forensic report was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+77a0e822-ed3b-4590-af18-4815cff31d4a,Not Guilty,NONE,,witnesses gave contradictory statements and recovered weapon was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+a2978ca4-dffc-4174-a378-528d9421b7f7,Not Guilty,NONE,,the accused provided a verified alibi; no medical certificate matched them.,0,Low,Not Guilty,0,[],15,0.0
+90d79ad4-24cf-4fed-924e-3f4d48129f78,Guilty,304B,"304B,307,341",investigation found forensic report and witnesses confirming that the accused stabbed the witness leading to loss of life.,263,High,,1,"['304B', '307', '341']",2,0.8766666666666667
+6acee010-fd27-42f6-9b03-a77de83414bd,Guilty,376,"376,468,406","the accused hit the woman at the roadside after a domestic argument, causing mental trauma. bank transaction logs confirmed the act.",224,High,,1,"['376', '468', '406']",8,0.7466666666666667
+ed9c6832-91ef-4ddf-b72c-a86fb5079a46,Guilty,326,"326,498A",victim's statement and eyewitness statements prove that the accused intentionally hit the public servant.,55,Medium,,1,"['326', '498A']",4,0.18333333333333335
+7926c477-3a8b-407f-9fa0-e5988783c411,Not Guilty,NONE,,police could not recover any weapon or medical certificate supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+419cffb6-de73-4e89-b6d2-e52d23631fdc,Guilty,406,"406,354",the accused planned and executed to shot the woman at school for personal gain.,54,Medium,,1,"['406', '354']",10,0.18000000000000002
+d14d36a5-88ad-4351-b17f-75055e8ab1fa,Guilty,326,326,victim's statement and forensic report prove that the accused intentionally cheated the witness.,120,Medium,,1,['326'],4,0.4
+97405c85-d3e8-4742-b372-1c7797ea4dbd,Not Guilty,NONE,,the accused was present nearby but no eyewitness statements linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+b0f2a742-ee9e-4a94-b737-24a6020695d5,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+6122c7ae-46cb-4755-993b-ae28aba16102,Not Guilty,NONE,,the accused was present nearby but no forensic report linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+a849dfc5-93d8-495e-87a0-1d494397b401,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+616e5f96-866a-46ae-8275-4568f3fdccf2,Not Guilty,NONE,,the accused provided a verified alibi; no forensic report matched them.,0,Low,Not Guilty,0,[],15,0.0
+49a89afa-8375-4867-bbf0-fe1dda25e9ae,Guilty,376,"376,420","during a robbery attempt, medical certificate captured the accused cheated the neighbour at market.",218,High,,1,"['376', '420']",8,0.7266666666666667
+1011460e-1b7b-407b-b69c-1a55a56e4c05,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+2d8ca476-27f5-4bcd-a316-6d05af14fcda,Guilty,341,341,investigation found dna test and witnesses confirming that the accused trespassed the witness leading to death.,19,Low,,1,['341'],5,0.06333333333333334
+03a954b8-a66f-4002-95d8-6bd60d86380b,Guilty,307,"307,304B,376","fir and forensic report show the accused stabbed the customer during a quarrel, resulting in property loss.",269,High,,1,"['307', '304B', '376']",3,0.8966666666666667
+a0e2d1e5-4f55-4747-bb7f-5105a3694a6f,Guilty,420,"420,468","the accused shot the public servant at the restaurant after a family dispute, causing serious injury. recovered weapon confirmed the act.",89,Medium,,1,"['420', '468']",11,0.2966666666666667
+2070018f-e4eb-4724-8050-c8be1725688a,Not Guilty,NONE,,the accused was present nearby but no eyewitness statements linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+9bfe3ab9-8873-416f-bf75-ee8c8626c602,Guilty,468,"468,302,363",investigation found dna test and witnesses confirming that the accused forged the victim leading to serious injury.,84,Medium,,1,"['468', '302', '363']",12,0.28
+d7e9c832-dc91-4db2-82f3-fe971f5cd2aa,Guilty,302,302,"fir and forensic report show the accused harassed the neighbour during a quarrel, resulting in mental trauma.",167,High,,1,['302'],1,0.5566666666666668
+16ef4776-b228-4859-b869-79552148e2cd,Guilty,468,"468,420,326",investigation found dna test and witnesses confirming that the accused strangled the neighbour leading to loss of life.,99,Medium,,1,"['468', '420', '326']",12,0.33
+6789055a-2446-48f9-997c-a7951ba9ab10,Guilty,302,302,"during a political rally, medical certificate captured the accused stabbed the woman at school.",285,High,,1,['302'],1,0.9500000000000001
+150e39ec-6813-47cc-a0d0-35474ef1e37a,Not Guilty,NONE,,police could not recover any weapon or dna test supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+f4fd4349-8f4a-4ba0-9ff0-e52462f8e78b,Not Guilty,NONE,,police could not recover any weapon or bank transaction logs supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+4c6344a3-52ee-4408-80c0-09a50d4b3ce1,Not Guilty,NONE,,the accused was present nearby but no medical certificate linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+f32a7b4c-69f2-45b0-9573-6e8f43bc9588,Not Guilty,NONE,,the accused provided a verified alibi; no eyewitness statements matched them.,0,Low,Not Guilty,0,[],15,0.0
+7345142e-b83d-439d-aa9f-4f96ff73ec5e,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+d432b4f6-8728-490d-bea0-8512c2a8cf63,Guilty,376,"376,506","fir and forensic report show the accused stabbed the wife during a domestic argument, resulting in mental trauma.",231,High,,1,"['376', '506']",8,0.77
+dd145de8-7b44-45ab-b803-2211e0ac7b2b,Guilty,420,"420,498A,307","fir and forensic report show the accused assaulted the public servant during a domestic argument, resulting in property loss.",91,Medium,,1,"['420', '498A', '307']",11,0.30333333333333334
+ba8bd78f-0644-4b14-af4c-a431718c08bc,Not Guilty,NONE,,witnesses gave contradictory statements and digital evidence was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+ddb8e2fb-a78c-43bf-b9ef-46c2b2b60b32,Guilty,341,341,investigation found recovered weapon and witnesses confirming that the accused assaulted the police officer leading to death.,32,Low,,1,['341'],5,0.10666666666666667
+578b13e7-e7fb-4ee1-98c2-c83ac7bec8d1,Guilty,341,"341,406,307",investigation found cctv footage and witnesses confirming that the accused harassed the minor leading to death.,35,Low,,1,"['341', '406', '307']",5,0.11666666666666667
+a2eb3199-5522-468a-a838-bc604821c09d,Not Guilty,NONE,,the accused was present nearby but no digital evidence linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+911c787c-bb90-46e1-ad0f-30ba1c41b281,Guilty,379,"379,302,420","during a domestic argument, bank transaction logs captured the accused hit the wife at market.",27,Low,,1,"['379', '302', '420']",9,0.09000000000000001
+f3eb9ab9-12e5-4386-b8f6-b5834f5a2c5a,Guilty,498A,498A,"fir and forensic report show the accused hit the police officer during a family dispute, resulting in mental trauma.",53,Medium,,1,['498A'],13,0.17666666666666667
+cb582437-55f2-471c-ab5d-71f962b88b97,Not Guilty,NONE,,the accused provided a verified alibi; no recovered weapon matched them.,0,Low,Not Guilty,0,[],15,0.0
+c0bc01c4-e43e-45f2-8590-db13cc038ce4,Guilty,120B,120B,"fir and forensic report show the accused shot the victim during a business deal, resulting in property loss.",12,Low,,1,['120B'],0,0.04
+93b8545c-433a-4360-b284-0bfd69e24626,Guilty,307,"307,376","fir and forensic report show the accused shot the police officer during a family dispute, resulting in death.",149,High,,1,"['307', '376']",3,0.4966666666666667
+9cc7635f-ee95-475a-bb53-ace5283faea8,Guilty,304B,"304B,120B,307","fir and forensic report show the accused assaulted the neighbour during a domestic argument, resulting in property loss.",174,High,,1,"['304B', '120B', '307']",2,0.5800000000000001
+cd80ba1f-ef5f-408b-9995-3ebfbbbe87e8,Guilty,379,379,"fir and forensic report show the accused abducted the witness during a domestic argument, resulting in mental trauma.",7,Low,,1,['379'],9,0.023333333333333334
+167d4dff-9a82-4894-a466-d292581151d1,Guilty,302,"302,326",the accused planned and executed to harassed the wife at public park for personal gain.,234,High,,1,"['302', '326']",1,0.78
+9faf220d-6e18-4634-9baf-fe3ac9d7cc09,Not Guilty,NONE,,the accused was present nearby but no recovered weapon linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+eff1d934-c340-4071-89ec-bf6779ddbe7f,Guilty,468,"468,363,341","the accused shot the public servant at the temple after a business deal, causing public disturbance. recovered weapon confirmed the act.",86,Medium,,1,"['468', '363', '341']",12,0.2866666666666667
+653e8f56-ba80-43b2-9c85-a91f4fdeee03,Guilty,307,307,investigation found recovered weapon and witnesses confirming that the accused forged the witness leading to public disturbance.,246,High,,1,['307'],3,0.8200000000000001
+d284e5f8-41a2-43c7-82a1-cf346b9247df,Guilty,379,"379,420",investigation found cctv footage and witnesses confirming that the accused blackmailed the woman leading to mental trauma.,33,Low,,1,"['379', '420']",9,0.11
+08707638-cc0f-49f4-a84d-be57e2ab9349,Not Guilty,NONE,,witnesses gave contradictory statements and eyewitness statements was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+f4e3e995-f8e9-49fc-a542-6eeb4c24d748,Guilty,406,"406,304B",victim's statement and cctv footage prove that the accused intentionally raped the wife.,93,Medium,,1,"['406', '304B']",10,0.31
+5a47a857-c230-4372-a156-62bbdd214561,Guilty,326,326,investigation found cctv footage and witnesses confirming that the accused extorted the wife leading to loss of life.,111,Medium,,1,['326'],4,0.37000000000000005
+97367d7b-ffbc-422b-b9a9-636a3a200166,Guilty,120B,"120B,326","fir and forensic report show the accused extorted the bank officer during a quarrel, resulting in property loss.",7,Low,,1,"['120B', '326']",0,0.023333333333333334
+a6d7732d-83fd-4cc9-9668-1118e13d5000,Guilty,379,"379,341,354","fir and forensic report show the accused cheated the minor during a public protest, resulting in mental trauma.",32,Low,,1,"['379', '341', '354']",9,0.10666666666666667
+d2266c94-7ffe-4ba2-bd33-10723efd19cd,Guilty,376,"376,363",victim's statement and dna test prove that the accused intentionally threatened the police officer.,204,High,,1,"['376', '363']",8,0.68
+58fbfbaa-e919-4037-a77a-2c6e8e81d449,Not Guilty,NONE,,the accused provided a verified alibi; no medical certificate matched them.,0,Low,Not Guilty,0,[],15,0.0
+c103b37f-eb74-416f-9967-5c535bd45b27,Guilty,406,"406,468,376",the accused planned and executed to stole the minor at train station for personal gain.,101,Medium,,1,"['406', '468', '376']",10,0.33666666666666667
+2324081d-45c9-47b6-be9f-431d561b7aeb,Guilty,420,"420,468,307","fir and forensic report show the accused trespassed the bank officer during a public protest, resulting in death.",77,Medium,,1,"['420', '468', '307']",11,0.2566666666666667
+4bb4294f-54a8-4187-a618-b93caa61cbe1,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+b6cfaaa6-4b18-458b-a00e-72d978b847ba,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+bf303e4f-a0f3-4589-bdef-c4d4890f37ad,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+fd7cca3c-0c8e-41b4-ab9d-7762bb439e68,Not Guilty,NONE,,police could not recover any weapon or bank transaction logs supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+3f71c83b-0a1f-4fac-85ee-d6c265f5157b,Guilty,420,420,victim's statement and dna test prove that the accused intentionally burned the business partner.,44,Medium,,1,['420'],11,0.14666666666666667
+115daba8-ffbf-4610-982d-f3cf92395b38,Guilty,363,"363,506",victim's statement and digital evidence prove that the accused intentionally hit the police officer.,20,Low,,1,"['363', '506']",7,0.06666666666666667
+832e9825-4fe7-498c-b362-ca07fe697e22,Guilty,420,"420,468,406","during a domestic argument, cctv footage captured the accused blackmailed the police officer at public park.",120,Medium,,1,"['420', '468', '406']",11,0.4
+78d9c46b-2aef-4c10-b2cb-67ab2cbc8c72,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+2eec0579-3aae-4816-bfc6-92d905b44c0c,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+d9c8f835-8276-4a46-89df-21ce0a49b20f,Not Guilty,NONE,,the accused provided a verified alibi; no cctv footage matched them.,0,Low,Not Guilty,0,[],15,0.0
+7e49fb27-d5ba-4fd4-8f28-e74d6e50a173,Not Guilty,NONE,,witnesses gave contradictory statements and eyewitness statements was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+6a9d8294-a57b-47b9-9e83-9c98625cd3ed,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+ec807e81-cd82-43d1-a581-cb9e91035430,Guilty,307,307,victim's statement and forensic report prove that the accused intentionally poisoned the victim.,175,High,,1,['307'],3,0.5833333333333334
+164a9e68-acaa-4f40-ab9b-40fb8c6de786,Not Guilty,NONE,,police could not recover any weapon or medical certificate supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+971f3a84-74bd-4f0f-a64d-776a6f822154,Guilty,406,406,"fir and forensic report show the accused trespassed the customer during a public protest, resulting in public disturbance.",96,Medium,,1,['406'],10,0.32
+5fec5667-4abf-4b90-8457-979ac9610a7e,Guilty,420,"420,468,406","fir and forensic report show the accused shot the witness during a domestic argument, resulting in loss of life.",72,Medium,,1,"['420', '468', '406']",11,0.24000000000000002
+3aba3c32-6b7f-4e78-9813-bbd29f228d36,Guilty,406,406,"the accused threatened the employee at the temple after a political rally, causing loss of life. digital evidence confirmed the act.",43,Medium,,1,['406'],10,0.14333333333333334
+896477a2-04d2-4157-9efa-a404c1a7ddbf,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+81f4b52b-f3e8-40bb-bdfa-e2a52ae32715,Not Guilty,NONE,,the accused was present nearby but no cctv footage linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+7b38bb18-d870-460f-9eb1-a93a4b048464,Guilty,354,354,victim's statement and dna test prove that the accused intentionally stole the woman.,8,Low,,1,['354'],6,0.02666666666666667
+57ef570f-f4cb-4d85-a452-255d2cc612e8,Not Guilty,NONE,,the accused was present nearby but no bank transaction logs linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+1094fc56-2a65-497a-8144-264cc2a8e091,Guilty,420,"420,341","during a robbery attempt, forensic report captured the accused trespassed the witness at factory.",84,Medium,,1,"['420', '341']",11,0.28
+09743040-6f85-45cb-9370-a2a0dd9b1353,Guilty,120B,"120B,302",the accused planned and executed to threatened the woman at school for personal gain.,35,Low,,1,"['120B', '302']",0,0.11666666666666667
+fa98f6f2-9698-40fe-b636-081a17fb797f,Guilty,363,363,"the accused forged the neighbour at the roadside after a family dispute, causing property loss. medical certificate confirmed the act.",13,Low,,1,['363'],7,0.043333333333333335
+069c89b7-c759-4190-ac5b-1ecc13b18f18,Guilty,420,"420,120B","during a family dispute, medical certificate captured the accused strangled the minor at school.",113,Medium,,1,"['420', '120B']",11,0.3766666666666667
+7d86ea59-2ed4-429f-8961-1f6c3c922c84,Not Guilty,NONE,,the accused was present nearby but no eyewitness statements linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+7ef13637-68fd-41cd-bd40-d6f8ca389910,Not Guilty,NONE,,the accused was present nearby but no bank transaction logs linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+de9dfcc3-25ff-4faa-9d81-3c2f665087d3,Guilty,354,354,"fir and forensic report show the accused extorted the victim during a quarrel, resulting in financial damage.",11,Low,,1,['354'],6,0.03666666666666667
+72bd4c49-fae7-445f-8a2e-5588e23ce0fc,Guilty,326,"326,120B","fir and forensic report show the accused hit the customer during a business deal, resulting in loss of life.",93,Medium,,1,"['326', '120B']",4,0.31
+7e780ea4-ad4c-4839-9d99-d5f1bcd74335,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+9e282d52-9e19-4e3b-8471-4fbf8019ea64,Not Guilty,NONE,,the accused provided a verified alibi; no digital evidence matched them.,0,Low,Not Guilty,0,[],15,0.0
+6d531bee-299a-4771-ab2a-76dc90e3305a,Guilty,363,363,"fir and forensic report show the accused stole the wife during a business deal, resulting in mental trauma.",12,Low,,1,['363'],7,0.04
+5a3a2a41-b31c-414e-bf17-72a2a3630e96,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+20e93a2c-9894-4ad7-aa06-887975b715c7,Not Guilty,NONE,,the accused was present nearby but no digital evidence linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+4cf2cf50-6f42-4fd2-a414-185e7f50390e,Guilty,354,"354,307","the accused trespassed the business partner at the home after a public protest, causing serious injury. cctv footage confirmed the act.",27,Low,,1,"['354', '307']",6,0.09000000000000001
+740b1f6b-957a-47f7-ba41-04a88632df4d,Guilty,363,"363,406",the accused planned and executed to poisoned the wife at office for personal gain.,11,Low,,1,"['363', '406']",7,0.03666666666666667
+4b379995-24f4-4082-bc14-ab48ea412c7a,Guilty,363,"363,326,341","fir and forensic report show the accused extorted the wife during a business deal, resulting in financial damage.",31,Low,,1,"['363', '326', '341']",7,0.10333333333333335
+1df71d74-1e26-4fc0-815f-5b214f7f1631,Not Guilty,NONE,,police could not recover any weapon or digital evidence supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+d97032aa-ba49-41fe-a38b-83f1511faa7f,Guilty,307,"307,498A","during a business deal, recovered weapon captured the accused forged the business partner at hotel.",225,High,,1,"['307', '498A']",3,0.75
+800afa6c-047a-47f0-8580-66e302d70a8d,Guilty,420,"420,354",investigation found forensic report and witnesses confirming that the accused trespassed the minor leading to loss of life.,109,Medium,,1,"['420', '354']",11,0.36333333333333334
+b443eaf4-abc3-49d1-9ec6-84f22cee205c,Not Guilty,NONE,,the accused was present nearby but no dna test linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+f04fac2e-1cdb-4f4f-9dec-bf20786810d8,Guilty,120B,"120B,468","fir and forensic report show the accused trespassed the neighbour during a robbery attempt, resulting in property loss.",26,Low,,1,"['120B', '468']",0,0.08666666666666667
+a8089e79-e21c-4588-b881-670da0c00269,Not Guilty,NONE,,the accused provided a verified alibi; no forensic report matched them.,0,Low,Not Guilty,0,[],15,0.0
+a0743c52-a2dd-49a3-b509-708b975239d4,Guilty,420,"420,406","the accused strangled the wife at the restaurant after a quarrel, causing death. medical certificate confirmed the act.",75,Medium,,1,"['420', '406']",11,0.25
+0a03a845-8ee7-4dc0-adb9-461f360f65e4,Guilty,307,"307,326,376","the accused trespassed the witness at the train station after a family dispute, causing death. eyewitness statements confirmed the act.",206,High,,1,"['307', '326', '376']",3,0.6866666666666668
+ce287ba6-c059-4b54-8b88-69a5eb5508ac,Guilty,326,326,the accused planned and executed to stabbed the customer at factory for personal gain.,58,Medium,,1,['326'],4,0.19333333333333336
+1f4733c1-672a-4b02-beca-e2e7ce05ed80,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+ad159508-cc4c-427f-ae0b-1bc1a01491d6,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+22014727-fd90-453e-94d4-ec2d8a0964b3,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+3a9e4b48-2417-41db-86b2-af076e13e819,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+0e58fc98-e6f3-4d63-8518-293381c9d6ab,Guilty,379,379,investigation found digital evidence and witnesses confirming that the accused shot the minor leading to mental trauma.,12,Low,,1,['379'],9,0.04
+fa0c8e33-33aa-43c2-b1a1-6e37279916fc,Guilty,420,"420,363",victim's statement and bank transaction logs prove that the accused intentionally poisoned the woman.,103,Medium,,1,"['420', '363']",11,0.3433333333333334
+dae055f7-b433-4b6a-8564-67a55a935cdf,Not Guilty,NONE,,the accused provided a verified alibi; no bank transaction logs matched them.,0,Low,Not Guilty,0,[],15,0.0
+75969d53-fa36-417c-9b0e-12c0b1d3cfa2,Guilty,420,"420,363,304B","the accused assaulted the public servant at the bus stop after a political rally, causing mental trauma. dna test confirmed the act.",38,Medium,,1,"['420', '363', '304B']",11,0.12666666666666668
+b6e8dbea-c936-4135-b4c6-7557bf0f4fac,Guilty,307,"307,354",investigation found bank transaction logs and witnesses confirming that the accused blackmailed the customer leading to serious injury.,216,High,,1,"['307', '354']",3,0.7200000000000001
+505fdc81-6d09-43d0-8cd7-254c328dd827,Not Guilty,NONE,,police could not recover any weapon or medical certificate supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+a8f3154e-c4b1-4828-a973-13cc4826829c,Guilty,354,"354,506,406","during a family dispute, forensic report captured the accused forged the witness at bus stop.",23,Low,,1,"['354', '506', '406']",6,0.07666666666666667
+73a348fb-147b-4bbf-9996-622a7dbe64af,Guilty,307,"307,498A,304B",investigation found bank transaction logs and witnesses confirming that the accused assaulted the minor leading to public disturbance.,143,High,,1,"['307', '498A', '304B']",3,0.4766666666666667
+ffbcda03-c0d0-4dca-b61b-a93786e6cc42,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+fb409f46-c9ef-4fcc-b08c-7e109169143e,Guilty,376,376,the accused planned and executed to extorted the woman at home for personal gain.,121,High,,1,['376'],8,0.4033333333333334
+e5f92ba6-115c-4d7f-a16f-1fb48d783069,Not Guilty,NONE,,available evidence was circumstantial and insufficient to prove guilt beyond reasonable doubt.,0,Low,Not Guilty,0,[],15,0.0
+bd219248-4615-45a4-bdc3-6e2d170c30b4,Not Guilty,NONE,,the accused provided a verified alibi; no cctv footage matched them.,0,Low,Not Guilty,0,[],15,0.0
+a3b4efaf-e9ec-4d4c-8603-498ab48940b7,Guilty,379,"379,468,304B","during a public protest, bank transaction logs captured the accused poisoned the victim at hotel.",19,Low,,1,"['379', '468', '304B']",9,0.06333333333333334
+5ffb36e8-aa2a-42d5-8469-392c78a2f9f5,Not Guilty,NONE,,the accused was present nearby but no digital evidence linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+ae19f9e0-6334-4596-940d-b2a00de2f80b,Guilty,506,"506,302",victim's statement and dna test prove that the accused intentionally shot the public servant.,94,Medium,,1,"['506', '302']",14,0.31333333333333335
+a6caa13b-05a9-4335-83cc-9de2c0f6c776,Not Guilty,NONE,,witnesses gave contradictory statements and eyewitness statements was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+74300fb3-d766-4be8-a1c3-3fc9ff78c775,Guilty,506,"506,379",investigation found cctv footage and witnesses confirming that the accused stole the bank officer leading to loss of life.,70,Medium,,1,"['506', '379']",14,0.23333333333333334
+16419843-3617-447c-9ffb-0e8e5a8e9972,Guilty,307,"307,506,354",victim's statement and recovered weapon prove that the accused intentionally assaulted the bank officer.,236,High,,1,"['307', '506', '354']",3,0.7866666666666667
+5e1494fd-6649-4ab0-8eef-82127ed8bcd9,Guilty,354,354,the accused planned and executed to harassed the police officer at school for personal gain.,34,Low,,1,['354'],6,0.11333333333333334
+37d942a4-1c37-4912-84ab-3235feb4ebd5,Not Guilty,NONE,,police could not recover any weapon or medical certificate supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+8827bf39-ce62-4548-815e-b16d6563fc98,Guilty,302,"302,498A,406",investigation found dna test and witnesses confirming that the accused forged the wife leading to death.,263,High,,1,"['302', '498A', '406']",1,0.8766666666666667
+01068523-bed3-4bc1-bca2-db0bbe63adcb,Not Guilty,NONE,,witnesses gave contradictory statements and digital evidence was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+d8e51bb1-9bc5-49fa-bab3-cddc6da45483,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+adb582a4-42c6-4fac-ba3e-28e7a8451362,Guilty,302,302,"the accused poisoned the bank officer at the office after a business deal, causing public disturbance. bank transaction logs confirmed the act.",157,High,,1,['302'],1,0.5233333333333333
+f743bdb0-6ca8-40ff-b0ac-2c6420021d65,Guilty,498A,"498A,506",the accused planned and executed to strangled the customer at school for personal gain.,37,Medium,,1,"['498A', '506']",13,0.12333333333333334
+359e5f7d-fd11-405d-a438-d394320ff9a0,Guilty,376,"376,506,406",the accused planned and executed to raped the customer at office for personal gain.,193,High,,1,"['376', '506', '406']",8,0.6433333333333334
+bd13264c-7f6a-4b96-a9a0-fa0279f17be9,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+915d5bca-59f9-46f3-b278-e78642f747dc,Not Guilty,NONE,,the accused provided a verified alibi; no medical certificate matched them.,0,Low,Not Guilty,0,[],15,0.0
+20085e04-9eea-4853-877c-655601fd5709,Not Guilty,NONE,,the accused provided a verified alibi; no cctv footage matched them.,0,Low,Not Guilty,0,[],15,0.0
+0db9f4a1-202b-494a-b26a-df85ca00036d,Not Guilty,NONE,,the accused provided a verified alibi; no dna test matched them.,0,Low,Not Guilty,0,[],15,0.0
+490f9625-d743-47cc-9c5d-af57ccbcfd22,Not Guilty,NONE,,the accused provided a verified alibi; no dna test matched them.,0,Low,Not Guilty,0,[],15,0.0
+58dfc65c-80cf-4fd6-beee-bb7e8b6cd7fb,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+19a92f2a-4f0a-4e83-bc92-d5f8e39f09c2,Not Guilty,NONE,,police could not recover any weapon or dna test supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+32cf5b47-e7ca-4078-b121-eb985eb6e696,Not Guilty,NONE,,the accused was present nearby but no dna test linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+b7fe56ce-3e55-40ba-8e15-d9b054757b1a,Guilty,354,354,"during a political rally, eyewitness statements captured the accused poisoned the neighbour at factory.",31,Low,,1,['354'],6,0.10333333333333335
+6ca532a6-66b3-4462-800f-0ee317fc889b,Not Guilty,NONE,,police could not recover any weapon or eyewitness statements supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+ca7822d1-c020-415e-b462-5ca2be709e90,Not Guilty,NONE,,investigation found no motive or forensic match to the accused.,0,Low,Not Guilty,0,[],15,0.0
+11cacc74-48e9-4abd-b6aa-c0f3aef70f17,Not Guilty,NONE,,witnesses gave contradictory statements and eyewitness statements was inconclusive.,0,Low,Not Guilty,0,[],15,0.0
+c79402c6-f64a-4e92-9c77-8f49e6de215c,Not Guilty,NONE,,the accused was present nearby but no bank transaction logs linked them to the crime.,0,Low,Not Guilty,0,[],15,0.0
+574ffe15-b09c-496b-8509-ad8f69774b35,Not Guilty,NONE,,the accused was mistaken for another person; identification was unreliable.,0,Low,Not Guilty,0,[],15,0.0
+2b0f04d2-9493-4dc5-aa3e-efcd1cdeeb5a,Guilty,406,"406,304B,120B",investigation found dna test and witnesses confirming that the accused forged the wife leading to loss of life.,112,Medium,,1,"['406', '304B', '120B']",10,0.37333333333333335
+902ea0c8-6ebc-4cb4-b429-ffd8d7ddf1b5,Guilty,363,"363,341,376","fir and forensic report show the accused extorted the neighbour during a robbery attempt, resulting in property loss.",27,Low,,1,"['363', '341', '376']",7,0.09000000000000001
+c9bd8747-66fc-4aca-b998-9e4c3f572627,Guilty,120B,"120B,420",investigation found digital evidence and witnesses confirming that the accused threatened the wife leading to public disturbance.,26,Low,,1,"['120B', '420']",0,0.08666666666666667
+20a9faa2-19dc-403f-b80f-cc426ba6556b,Not Guilty,NONE,,police could not recover any weapon or forensic report supporting the charge.,0,Low,Not Guilty,0,[],15,0.0
+4ddb2000-05cd-42c5-836e-de514d37ecf9,Guilty,304B,"304B,341,406",the accused planned and executed to poisoned the woman at train station for personal gain.,162,High,,1,"['304B', '341', '406']",2,0.54
