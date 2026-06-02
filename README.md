@@ -164,25 +164,29 @@ Court-Judgment-Predictor/
 
 ## 🔑 Login & Registration
 
-![Login](screenshots/login.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76fad30b-6105-4974-8f45-5351de922b87" />
+
 
 ---
 
 ## 📋 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1fa3f035-f3de-48ea-9f07-7d884f3d0b9c" />
+
 
 ---
 
 ## ⚖️ Prediction Result
 
-![Prediction](screenshots/prediction.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b57fec1-248c-49da-8f5f-69f5c8c6886f" />
+
 
 ---
 
 ## 🔍 Similar Cases
 
-![Similar Cases](screenshots/similar_cases.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51ff5f32-e5be-4dae-8d55-c565b906c73b" />
+
 
 ---
 
